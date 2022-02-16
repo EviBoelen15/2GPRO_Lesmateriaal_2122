@@ -1,0 +1,18 @@
+﻿<Window x:Class="Oefening8KlasseTeller.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oefening8KlasseTeller"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btnGeefWaarde" Content="Lees de waarde van de teller" HorizontalAlignment="Left" Margin="241,136,0,0" VerticalAlignment="Top" Width="258" Height="32" Click="btnGeefWaarde_Click"/>
+        <Button x:Name="btnVerhoog" Content=" + 1 " HorizontalAlignment="Left" Margin="241,173,0,0" VerticalAlignment="Top" Width="258" Height="32" Click="btnVerhoog_Click"/>
+        <Button x:Name="btnVerlaag" Content=" - 1 " HorizontalAlignment="Left" Margin="241,210,0,0" VerticalAlignment="Top" Width="258" Height="32" Click="btnVerlaag_Click"/>
+        <Button x:Name="btnReset" Content="reset" HorizontalAlignment="Left" Margin="241,247,0,0" VerticalAlignment="Top" Width="258" Height="32" Click="btnReset_Click"/>
+        <Button x:Name="btnVerhoogMet" Content="verhoog met: " HorizontalAlignment="Left" Margin="241,284,0,0" VerticalAlignment="Top" Width="144" Height="32" Click="btnVerhoogMet_Click"/>
+        <TextBox x:Name="txtVerhoogGetal" HorizontalAlignment="Left" Height="32" Margin="390,284,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="109"/>
+
+    </Grid>
+</Window>

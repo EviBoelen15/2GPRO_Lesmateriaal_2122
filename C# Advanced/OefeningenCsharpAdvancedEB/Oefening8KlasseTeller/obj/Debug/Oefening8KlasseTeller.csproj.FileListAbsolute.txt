@@ -1,0 +1,14 @@
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening8KlasseTeller\bin\Debug\Oefening8KlasseTeller.exe.config
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening8KlasseTeller\bin\Debug\Oefening8KlasseTeller.exe
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening8KlasseTeller\bin\Debug\Oefening8KlasseTeller.pdb
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening8KlasseTeller\obj\Debug\MainWindow.g.cs
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening8KlasseTeller\obj\Debug\App.g.cs
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening8KlasseTeller\obj\Debug\Oefening8KlasseTeller_MarkupCompile.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening8KlasseTeller\obj\Debug\Oefening8KlasseTeller_MarkupCompile.lref
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening8KlasseTeller\obj\Debug\MainWindow.baml
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening8KlasseTeller\obj\Debug\Oefening8KlasseTeller.g.resources
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening8KlasseTeller\obj\Debug\Oefening8KlasseTeller.Properties.Resources.resources
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening8KlasseTeller\obj\Debug\Oefening8KlasseTeller.csproj.GenerateResource.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening8KlasseTeller\obj\Debug\Oefening8KlasseTeller.csproj.CoreCompileInputs.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening8KlasseTeller\obj\Debug\Oefening8KlasseTeller.exe
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening8KlasseTeller\obj\Debug\Oefening8KlasseTeller.pdb
