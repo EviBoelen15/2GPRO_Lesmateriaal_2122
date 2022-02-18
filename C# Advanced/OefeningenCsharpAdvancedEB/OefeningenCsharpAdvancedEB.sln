@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OefeningenCsharpAdvancedEB", "OefeningenCsharpAdvancedEB\OefeningenCsharpAdvancedEB.csproj", "{5904E64B-C121-44F3-BE2C-66715843D27E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening7KlasseBankrekening", "OefeningenCsharpAdvancedEB\Oefening7KlasseBankrekening.csproj", "{5904E64B-C121-44F3-BE2C-66715843D27E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening8KlasseTeller", "Oefening8KlasseTeller\Oefening8KlasseTeller.csproj", "{4E0C6F3C-44DB-4D48-A75E-2810ED76D391}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening10KlassePersoneel", "Oefening10KlassePersoneel\Oefening10KlassePersoneel.csproj", "{BFAA950D-F70C-4189-AB01-AB954A9E90F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4E0C6F3C-44DB-4D48-A75E-2810ED76D391}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E0C6F3C-44DB-4D48-A75E-2810ED76D391}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E0C6F3C-44DB-4D48-A75E-2810ED76D391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFAA950D-F70C-4189-AB01-AB954A9E90F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFAA950D-F70C-4189-AB01-AB954A9E90F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFAA950D-F70C-4189-AB01-AB954A9E90F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFAA950D-F70C-4189-AB01-AB954A9E90F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

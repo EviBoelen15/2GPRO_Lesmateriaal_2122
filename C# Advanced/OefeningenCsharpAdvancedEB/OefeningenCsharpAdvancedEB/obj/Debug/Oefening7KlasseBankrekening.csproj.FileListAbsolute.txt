@@ -1,0 +1,14 @@
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\OefeningenCsharpAdvancedEB\bin\Debug\OefeningenCsharpAdvancedEB.exe.config
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\OefeningenCsharpAdvancedEB\bin\Debug\OefeningenCsharpAdvancedEB.exe
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\OefeningenCsharpAdvancedEB\bin\Debug\OefeningenCsharpAdvancedEB.pdb
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\OefeningenCsharpAdvancedEB\obj\Debug\MainWindow.g.cs
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\OefeningenCsharpAdvancedEB\obj\Debug\App.g.cs
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\OefeningenCsharpAdvancedEB\obj\Debug\OefeningenCsharpAdvancedEB_MarkupCompile.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\OefeningenCsharpAdvancedEB\obj\Debug\OefeningenCsharpAdvancedEB_MarkupCompile.lref
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\OefeningenCsharpAdvancedEB\obj\Debug\MainWindow.baml
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\OefeningenCsharpAdvancedEB\obj\Debug\OefeningenCsharpAdvancedEB.g.resources
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\OefeningenCsharpAdvancedEB\obj\Debug\OefeningenCsharpAdvancedEB.Properties.Resources.resources
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\OefeningenCsharpAdvancedEB\obj\Debug\Oefening7KlasseBankrekening.csproj.GenerateResource.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\OefeningenCsharpAdvancedEB\obj\Debug\Oefening7KlasseBankrekening.csproj.CoreCompileInputs.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\OefeningenCsharpAdvancedEB\obj\Debug\OefeningenCsharpAdvancedEB.exe
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\OefeningenCsharpAdvancedEB\obj\Debug\OefeningenCsharpAdvancedEB.pdb
