@@ -1,0 +1,46 @@
+Maurice;Appeltans;systemen en netwerken
+Tanja;Boonen;programmeren
+Marc;Brants;internet of things
+Els;Briers;digitale vormgeving
+Natacha;Bruggen;systemen en netwerken
+Greta;Daems;programmeren
+Inge;Dox;digitale vormgeving
+Kris;Das;digitale vormgeving
+Tristan;Fransen;programmeren
+Emmy;Geboers;internet of things
+Mark;Goessens;systemen en netwerken
+Diederik;Heuts;programmeren
+Linda;Honings;systemen en netwerken
+Peter;Hox;programmeren
+Jan;Jacobs;digitale vormgeving
+Rudy;Janssens;internet of things
+Hugo;Jaspers;internet of things
+Joke;Kuppers;programmeren
+Claudia;Laeremans;programmeren
+Inge;Lambrechts;programmeren
+Kristel;Leys;programmeren
+Guido;Naes;systemen en netwerken
+Greet;Narien;digitale vormgeving
+Jaak;Nichiels;programmeren
+Roger;Nichiels;systemen en netwerken
+Elke;Noors;systemen en netwerken
+Iris;Nys;digitale vormgeving
+Louis;Nyssens;systemen en netwerken
+Kristof;Palmaers;programmeren
+Nico;Pauwels;programmeren
+Ellen;Peeters;systemen en netwerken
+Raf;Peeters;internet of things
+Ann;Pelemans;programmeren
+Luc;Peters;internet of things
+Louis;'s Heeren;digitale vormgeving
+Luca;Smolders;internet of things
+Marcel;Vaes;programmeren
+Els;Vandenbossche;programmeren
+Kristof;Vanherle;systemen en netwerken
+Nancy;Vanhouten;systemen en netwerken
+Michel;Verbist;systemen en netwerken
+Geert;Vervoort;internet of things
+Marijke;Wellens;systemen en netwerken
+Patrick;Willems;programmeren
+Luc;Willems;systemen en netwerken
+Maarten;Wouters;internet of things

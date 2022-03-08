@@ -1,0 +1,14 @@
+C:\SCHOOL\C# ADVANCED\VoorbeeldenWPF\VoorbeeldInterfaceBoomPersoon\VoorbeeldInterfaceBoomPersoon\bin\Debug\VoorbeeldInterfaceBoomPersoon.exe.config
+C:\SCHOOL\C# ADVANCED\VoorbeeldenWPF\VoorbeeldInterfaceBoomPersoon\VoorbeeldInterfaceBoomPersoon\bin\Debug\VoorbeeldInterfaceBoomPersoon.exe
+C:\SCHOOL\C# ADVANCED\VoorbeeldenWPF\VoorbeeldInterfaceBoomPersoon\VoorbeeldInterfaceBoomPersoon\bin\Debug\VoorbeeldInterfaceBoomPersoon.pdb
+C:\SCHOOL\C# ADVANCED\VoorbeeldenWPF\VoorbeeldInterfaceBoomPersoon\VoorbeeldInterfaceBoomPersoon\obj\Debug\VoorbeeldInterfaceBoomPersoon.csprojAssemblyReference.cache
+C:\SCHOOL\C# ADVANCED\VoorbeeldenWPF\VoorbeeldInterfaceBoomPersoon\VoorbeeldInterfaceBoomPersoon\obj\Debug\MainWindow.g.cs
+C:\SCHOOL\C# ADVANCED\VoorbeeldenWPF\VoorbeeldInterfaceBoomPersoon\VoorbeeldInterfaceBoomPersoon\obj\Debug\App.g.cs
+C:\SCHOOL\C# ADVANCED\VoorbeeldenWPF\VoorbeeldInterfaceBoomPersoon\VoorbeeldInterfaceBoomPersoon\obj\Debug\VoorbeeldInterfaceBoomPersoon_MarkupCompile.cache
+C:\SCHOOL\C# ADVANCED\VoorbeeldenWPF\VoorbeeldInterfaceBoomPersoon\VoorbeeldInterfaceBoomPersoon\obj\Debug\VoorbeeldInterfaceBoomPersoon_MarkupCompile.lref
+C:\SCHOOL\C# ADVANCED\VoorbeeldenWPF\VoorbeeldInterfaceBoomPersoon\VoorbeeldInterfaceBoomPersoon\obj\Debug\MainWindow.baml
+C:\SCHOOL\C# ADVANCED\VoorbeeldenWPF\VoorbeeldInterfaceBoomPersoon\VoorbeeldInterfaceBoomPersoon\obj\Debug\VoorbeeldInterfaceBoomPersoon.g.resources
+C:\SCHOOL\C# ADVANCED\VoorbeeldenWPF\VoorbeeldInterfaceBoomPersoon\VoorbeeldInterfaceBoomPersoon\obj\Debug\VoorbeeldInterfaceBoomPersoon.Properties.Resources.resources
+C:\SCHOOL\C# ADVANCED\VoorbeeldenWPF\VoorbeeldInterfaceBoomPersoon\VoorbeeldInterfaceBoomPersoon\obj\Debug\VoorbeeldInterfaceBoomPersoon.csproj.GenerateResource.cache
+C:\SCHOOL\C# ADVANCED\VoorbeeldenWPF\VoorbeeldInterfaceBoomPersoon\VoorbeeldInterfaceBoomPersoon\obj\Debug\VoorbeeldInterfaceBoomPersoon.exe
+C:\SCHOOL\C# ADVANCED\VoorbeeldenWPF\VoorbeeldInterfaceBoomPersoon\VoorbeeldInterfaceBoomPersoon\obj\Debug\VoorbeeldInterfaceBoomPersoon.pdb

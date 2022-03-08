@@ -1,0 +1,32 @@
+﻿<Window x:Class="Voorbeeld_Abstracte_klasse.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Voorbeeld_Abstracte_klasse"
+        mc:Ignorable="d"
+        Title="Klasse loon en salaris berekenen." Height="556.653" Width="800" FontSize="16">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Height="24" Margin="42,29,0,0" TextWrapping="Wrap" Text="Bedienden" VerticalAlignment="Top" Width="288" Background="{DynamicResource {x:Static SystemColors.ControlDarkBrushKey}}" Foreground="{DynamicResource {x:Static SystemColors.WindowBrushKey}}"/>
+        <TextBlock HorizontalAlignment="Left" Margin="47,80,0,0" TextWrapping="Wrap" Text="Voornaam" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="51,120,0,0" TextWrapping="Wrap" Text="Naam" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="51,163,0,0" TextWrapping="Wrap" Text="Bruto salaris" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="472,77,0,0" TextWrapping="Wrap" Text="Voornaam" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="476,114,0,0" TextWrapping="Wrap" Text="Naam" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="476,156,0,0" TextWrapping="Wrap" Text="Uurloon" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="478,199,0,0" TextWrapping="Wrap" Text="Aantal uren" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="462,32,0,0" TextWrapping="Wrap" Text="Arbeiders" VerticalAlignment="Top" Width="282" Background="{DynamicResource {x:Static SystemColors.ControlDarkBrushKey}}" Foreground="{DynamicResource {x:Static SystemColors.WindowBrushKey}}"/>
+        <TextBox x:Name="TxtSalaris" HorizontalAlignment="Left" Height="149" Margin="48,303,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="266"/>
+        <TextBox x:Name="TxtLoon" HorizontalAlignment="Left" Height="148" Margin="480,302,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="259"/>
+        <Button x:Name="BtnBedienden" Content="_Berekenen" HorizontalAlignment="Left" Height="33" Margin="181,244,0,0" VerticalAlignment="Top" Width="135" Click="BtnBediende_Click"/>
+        <Button x:Name="BtnArbeiders" Content="Be_rekenen" HorizontalAlignment="Left" Height="33" Margin="606,244,0,0" VerticalAlignment="Top" Width="130" Click="BtnArbeiders_Click"/>
+        <TextBox x:Name="TxtVoornaamBediende" HorizontalAlignment="Left" Height="29" Margin="184,80,0,0" TextWrapping="Wrap" Text="Jasmine" VerticalAlignment="Top" Width="142"/>
+        <TextBox x:Name="TxtBrutoBediende" HorizontalAlignment="Left" Height="29" Margin="181,167,0,0" TextWrapping="Wrap" Text="4596" VerticalAlignment="Top" Width="142"/>
+        <TextBox x:Name="TxtNaamBediende" HorizontalAlignment="Left" Height="29" Margin="181,125,0,0" TextWrapping="Wrap" Text="Servaes" VerticalAlignment="Top" Width="142"/>
+        <TextBox x:Name="TxtAantalUrenArbeider" HorizontalAlignment="Left" Height="29" Margin="595,195,0,0" TextWrapping="Wrap" Text="136" VerticalAlignment="Top" Width="142"/>
+        <TextBox x:Name="TxtUurloonArbeider" HorizontalAlignment="Left" Height="29" Margin="595,153,0,0" TextWrapping="Wrap" Text="31,30" VerticalAlignment="Top" Width="142"/>
+        <TextBox x:Name="TxtNaamArbeider" HorizontalAlignment="Left" Height="29" Margin="596,112,0,0" TextWrapping="Wrap" Text="Schraepen" VerticalAlignment="Top" Width="142"/>
+        <TextBox x:Name="TxtVoornaamArbeider" HorizontalAlignment="Left" Height="29" Margin="597,71,0,0" TextWrapping="Wrap" Text="Mathias" VerticalAlignment="Top" Width="142"/>
+
+    </Grid>
+</Window>

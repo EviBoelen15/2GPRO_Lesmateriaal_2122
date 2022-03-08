@@ -1,0 +1,32 @@
+C:\Users\peter\source\repos\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\bin\Debug\VoorbeeldexamenPeterJoos.exe.config
+C:\Users\peter\source\repos\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\bin\Debug\VoorbeeldexamenPeterJoos.exe
+C:\Users\peter\source\repos\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\bin\Debug\VoorbeeldexamenPeterJoos.pdb
+C:\Users\peter\source\repos\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\MainWindow.g.cs
+C:\Users\peter\source\repos\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\App.g.cs
+C:\Users\peter\source\repos\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\VoorbeeldexamenPeterJoos_MarkupCompile.cache
+C:\Users\peter\source\repos\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\VoorbeeldexamenPeterJoos_MarkupCompile.lref
+C:\Users\peter\source\repos\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\MainWindow.baml
+C:\Users\peter\source\repos\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\VoorbeeldexamenPeterJoos.g.resources
+C:\Users\peter\source\repos\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\VoorbeeldexamenPeterJoos.Properties.Resources.resources
+C:\Users\peter\source\repos\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\VoorbeeldexamenPeterJoos.csproj.GenerateResource.cache
+C:\Users\peter\source\repos\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\VoorbeeldexamenPeterJoos.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\VoorbeeldexamenPeterJoos.exe
+C:\Users\peter\source\repos\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\VoorbeeldexamenPeterJoos.pdb
+C:\Users\peter\source\repos\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\VoorbeeldexamenPeterJoos.csprojAssemblyReference.cache
+D:\PXL Grad 2020-2021\C#Advanced\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\bin\Debug\VoorbeeldexamenPeterJoos.exe.config
+D:\PXL Grad 2020-2021\C#Advanced\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\bin\Debug\VoorbeeldexamenPeterJoos.exe
+D:\PXL Grad 2020-2021\C#Advanced\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\bin\Debug\VoorbeeldexamenPeterJoos.pdb
+D:\PXL Grad 2020-2021\C#Advanced\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\VoorbeeldexamenPeterJoos.csprojAssemblyReference.cache
+D:\PXL Grad 2020-2021\C#Advanced\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\MainWindow.g.cs
+D:\PXL Grad 2020-2021\C#Advanced\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\WPFData.g.cs
+D:\PXL Grad 2020-2021\C#Advanced\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\App.g.cs
+D:\PXL Grad 2020-2021\C#Advanced\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\VoorbeeldexamenPeterJoos_MarkupCompile.cache
+D:\PXL Grad 2020-2021\C#Advanced\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\VoorbeeldexamenPeterJoos_MarkupCompile.lref
+D:\PXL Grad 2020-2021\C#Advanced\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\MainWindow.baml
+D:\PXL Grad 2020-2021\C#Advanced\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\WPFData.baml
+D:\PXL Grad 2020-2021\C#Advanced\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\VoorbeeldexamenPeterJoos.g.resources
+D:\PXL Grad 2020-2021\C#Advanced\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\VoorbeeldexamenPeterJoos.Properties.Resources.resources
+D:\PXL Grad 2020-2021\C#Advanced\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\VoorbeeldexamenPeterJoos.csproj.GenerateResource.cache
+D:\PXL Grad 2020-2021\C#Advanced\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\VoorbeeldexamenPeterJoos.csproj.CoreCompileInputs.cache
+D:\PXL Grad 2020-2021\C#Advanced\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\VoorbeeldexamenPeterJoos.exe
+D:\PXL Grad 2020-2021\C#Advanced\VoorbeeldexamenPeterJoos\VoorbeeldexamenPeterJoos\obj\Debug\VoorbeeldexamenPeterJoos.pdb
