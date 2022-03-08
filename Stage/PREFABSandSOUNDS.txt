@@ -1,0 +1,32 @@
+Traps sounds: 
+
+Explosive barrel: EXPLOSION_SHORT_6
+Explosive Cactus: EXPLOSION_SHORT_2
+Explosive Crystal: EXPLOSION_SHORT_5
+Falling Crystal: EXPLOSION_SHORT_5
+Mine: EXPLOSION_LONG_1
+TimedBarrel: EXPLOSION_SHORT_6
+
+
+Enemy sounds: 
+
+Vroomer: EXPLOSION_SHORT_2
+Badoomer: EXPLOSION_LONG_1
+Dooker: EXPLOSION_SHORT_1
+Krakatoomer: EXPLOSION_LONG_2
+Trooper: EXPLOSION_LONG_2
+Groover: EXPLOSION_LONG_1
+Macha: EXPLOSION_SHORT_1
+BangbangBus: EXPLOSION_SHORT_2
+Foomer: EXPLOSION_SHORT_3
+Lacha: EXPLOSION_LONG_2
+
+Minion Sounds: 
+
+S1: gazzler_pain_quiet_01
+S2: gazzler_pain_quiet_02
+S3: gazzler_pain_quiet_03
+
+ScrapBalloon sound: 
+
+S1: EXPLOSION_LONG_1
