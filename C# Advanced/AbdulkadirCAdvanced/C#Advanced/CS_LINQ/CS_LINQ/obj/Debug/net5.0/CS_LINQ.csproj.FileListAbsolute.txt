@@ -1,0 +1,16 @@
+C:\Users\Tom\Desktop\CS_Advanced\CS_LINQ\CS_LINQ\bin\Debug\net5.0\CS_LINQ.exe
+C:\Users\Tom\Desktop\CS_Advanced\CS_LINQ\CS_LINQ\bin\Debug\net5.0\CS_LINQ.deps.json
+C:\Users\Tom\Desktop\CS_Advanced\CS_LINQ\CS_LINQ\bin\Debug\net5.0\CS_LINQ.runtimeconfig.json
+C:\Users\Tom\Desktop\CS_Advanced\CS_LINQ\CS_LINQ\bin\Debug\net5.0\CS_LINQ.runtimeconfig.dev.json
+C:\Users\Tom\Desktop\CS_Advanced\CS_LINQ\CS_LINQ\bin\Debug\net5.0\CS_LINQ.dll
+C:\Users\Tom\Desktop\CS_Advanced\CS_LINQ\CS_LINQ\bin\Debug\net5.0\ref\CS_LINQ.dll
+C:\Users\Tom\Desktop\CS_Advanced\CS_LINQ\CS_LINQ\bin\Debug\net5.0\CS_LINQ.pdb
+C:\Users\Tom\Desktop\CS_Advanced\CS_LINQ\CS_LINQ\obj\Debug\net5.0\CS_LINQ.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_LINQ\CS_LINQ\obj\Debug\net5.0\CS_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom\Desktop\CS_Advanced\CS_LINQ\CS_LINQ\obj\Debug\net5.0\CS_LINQ.AssemblyInfoInputs.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_LINQ\CS_LINQ\obj\Debug\net5.0\CS_LINQ.AssemblyInfo.cs
+C:\Users\Tom\Desktop\CS_Advanced\CS_LINQ\CS_LINQ\obj\Debug\net5.0\CS_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_LINQ\CS_LINQ\obj\Debug\net5.0\CS_LINQ.dll
+C:\Users\Tom\Desktop\CS_Advanced\CS_LINQ\CS_LINQ\obj\Debug\net5.0\ref\CS_LINQ.dll
+C:\Users\Tom\Desktop\CS_Advanced\CS_LINQ\CS_LINQ\obj\Debug\net5.0\CS_LINQ.pdb
+C:\Users\Tom\Desktop\CS_Advanced\CS_LINQ\CS_LINQ\obj\Debug\net5.0\CS_LINQ.genruntimeconfig.cache

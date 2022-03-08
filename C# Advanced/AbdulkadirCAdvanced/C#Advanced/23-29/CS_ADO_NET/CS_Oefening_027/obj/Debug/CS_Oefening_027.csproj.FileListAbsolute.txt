@@ -1,0 +1,15 @@
+D:\PXL Grad 2020-2021\C#Advanced\23-29\CS_ADO_NET\CS_Oefening_027\bin\Debug\CS_Oefening_027.exe.config
+D:\PXL Grad 2020-2021\C#Advanced\23-29\CS_ADO_NET\CS_Oefening_027\bin\Debug\CS_Oefening_027.exe
+D:\PXL Grad 2020-2021\C#Advanced\23-29\CS_ADO_NET\CS_Oefening_027\bin\Debug\CS_Oefening_027.pdb
+D:\PXL Grad 2020-2021\C#Advanced\23-29\CS_ADO_NET\CS_Oefening_027\obj\Debug\MainWindow.g.cs
+D:\PXL Grad 2020-2021\C#Advanced\23-29\CS_ADO_NET\CS_Oefening_027\obj\Debug\App.g.cs
+D:\PXL Grad 2020-2021\C#Advanced\23-29\CS_ADO_NET\CS_Oefening_027\obj\Debug\CS_Oefening_027_MarkupCompile.cache
+D:\PXL Grad 2020-2021\C#Advanced\23-29\CS_ADO_NET\CS_Oefening_027\obj\Debug\CS_Oefening_027_MarkupCompile.lref
+D:\PXL Grad 2020-2021\C#Advanced\23-29\CS_ADO_NET\CS_Oefening_027\obj\Debug\MainWindow.baml
+D:\PXL Grad 2020-2021\C#Advanced\23-29\CS_ADO_NET\CS_Oefening_027\obj\Debug\CS_Oefening_027.g.resources
+D:\PXL Grad 2020-2021\C#Advanced\23-29\CS_ADO_NET\CS_Oefening_027\obj\Debug\CS_Oefening_027.Properties.Resources.resources
+D:\PXL Grad 2020-2021\C#Advanced\23-29\CS_ADO_NET\CS_Oefening_027\obj\Debug\CS_Oefening_027.csproj.GenerateResource.cache
+D:\PXL Grad 2020-2021\C#Advanced\23-29\CS_ADO_NET\CS_Oefening_027\obj\Debug\CS_Oefening_027.csproj.CoreCompileInputs.cache
+D:\PXL Grad 2020-2021\C#Advanced\23-29\CS_ADO_NET\CS_Oefening_027\obj\Debug\CS_Oefening_027.exe
+D:\PXL Grad 2020-2021\C#Advanced\23-29\CS_ADO_NET\CS_Oefening_027\obj\Debug\CS_Oefening_027.pdb
+D:\PXL Grad 2020-2021\C#Advanced\23-29\CS_ADO_NET\CS_Oefening_027\obj\Debug\CS_Oefening_027.csprojAssemblyReference.cache

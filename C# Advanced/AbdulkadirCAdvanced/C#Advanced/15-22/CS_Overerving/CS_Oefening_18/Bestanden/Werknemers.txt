@@ -1,0 +1,11 @@
+Robin          Alleweireldt        K 005500,00
+Steve          Appeltans           B           021,00 0161,50
+Rose-Marie     Arnaults            K 005550,50
+Anse           Cuppens             C 001500,00                05,00 050000,00
+Yves           Caelen              C 001500,00                05,00 002500,00
+Veerle         Deleeuw             B           022,50 0185,00
+Sven           Kelchtermans        B           018,00 0162,00
+Laura          Lopez               B           018,50 0163,50
+Jochem         Pijls               C 001450,00                04,50 007500,00
+Marianne       Thys                K 005500,00
+Paula          Vandeput            B           017,50 0160,00

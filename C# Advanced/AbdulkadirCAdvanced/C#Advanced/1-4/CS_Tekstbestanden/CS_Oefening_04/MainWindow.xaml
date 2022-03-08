@@ -1,0 +1,39 @@
+﻿<Window x:Class="CS_Oefening_04.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CS_Oefening_04"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top"   Background="#FF706E6E" Foreground="#FFFBF6F6"  >
+            <MenuItem Header="Inlezen bestand" Margin="0,6,0,0"  FontWeight="Bold" Foreground="#FFFBF8F8" >
+                <MenuItem x:Name="MnuDetails" Header=" Details" Foreground="White" Click="MnuDetails_Click" Background="#FF686363"/>
+                <MenuItem x:Name="MnuSamenvatting" Header=" Samenvatting" Foreground="White" Click="MnuSamenvatting_Click" Background="#FF686363"/>
+            </MenuItem>
+            <MenuItem Header="Opties" Margin="0,6,0,0"  FontWeight="Bold" Foreground="#FFF9F4F4">
+                <MenuItem x:Name="MnuDatum" Header=" Datum tonen/verbergen" Background="#FF686363" Foreground="#FFFDFBFB" Click="MnuDatum_Click"  IsCheckable="True" IsChecked="True"/>
+                <Separator/>
+                <MenuItem x:Name="MnuAchtergrond" Header=" Achtergrondkleur" Background="#FF686363" Foreground="#FFFDFBFB" Click="MnuAchtergrond_Click"/>
+            </MenuItem>
+        </Menu>
+        <StatusBar DockPanel.Dock="Bottom"  Background="#FF706E6E" Foreground="#FFFBF8F8"   >
+            <TextBlock Text="Ready" FontStyle="Italic"/>
+            <Image Source="DateTime.png" Height="19" Width="37"/>
+            <TextBlock x:Name="TextBlockDateTime" Text="Datum / tijd" Margin="460,0,0,0" FontStyle="Italic" FontWeight="Bold" />
+        </StatusBar>
+        <Grid >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="16*"/>
+                <ColumnDefinition Width="83*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="180*" />
+                <RowDefinition Height="439*" />
+            </Grid.RowDefinitions>
+            <Image x:Name="ImgSeizoen" Margin="20,10,0,10" HorizontalAlignment="Left"  Width="300" Grid.ColumnSpan="2" />
+            <TextBox x:Name="TxtResultaat" VerticalScrollBarVisibility="Visible" FontFamily="Consolas"  Grid.Row="1" Margin="20" Grid.ColumnSpan="2"/>
+        </Grid>
+    </DockPanel>
+</Window>

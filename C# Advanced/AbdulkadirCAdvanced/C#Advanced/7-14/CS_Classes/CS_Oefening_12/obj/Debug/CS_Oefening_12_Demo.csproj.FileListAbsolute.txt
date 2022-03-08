@@ -1,0 +1,15 @@
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_12_Demo\obj\Debug\CS_Oefening_12_Demo.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_12_Demo\obj\Debug\MainWindow.g.cs
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_12_Demo\obj\Debug\App.g.cs
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_12_Demo\obj\Debug\CS_Oefening_12_Demo_MarkupCompile.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_12_Demo\obj\Debug\CS_Oefening_12_Demo_MarkupCompile.lref
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_12_Demo\bin\Debug\CS_Oefening_12_Demo.exe.config
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_12_Demo\bin\Debug\CS_Oefening_12_Demo.exe
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_12_Demo\bin\Debug\CS_Oefening_12_Demo.pdb
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_12_Demo\obj\Debug\MainWindow.baml
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_12_Demo\obj\Debug\CS_Oefening_12_Demo.g.resources
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_12_Demo\obj\Debug\CS_Oefening_12_Demo.Properties.Resources.resources
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_12_Demo\obj\Debug\CS_Oefening_12_Demo.csproj.GenerateResource.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_12_Demo\obj\Debug\CS_Oefening_12_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_12_Demo\obj\Debug\CS_Oefening_12_Demo.exe
+C:\Users\Tom\Desktop\CS_Advanced\CS_Classes\CS_Oefening_12_Demo\obj\Debug\CS_Oefening_12_Demo.pdb

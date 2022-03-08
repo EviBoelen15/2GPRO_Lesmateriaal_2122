@@ -1,0 +1,17 @@
+﻿<Window x:Class="VoorbeeldADO.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VoorbeeldADO"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="1198.116">
+    <Grid>
+        <Button x:Name="BtnConnectieTest" Content="Test Connectie" HorizontalAlignment="Left" Margin="100,100,0,0" VerticalAlignment="Top" Height="52" Width="194" Click="BtnConnectieTest_Click"/>
+        <Button x:Name="BtnSqlCommand" Content="SQL Commando" HorizontalAlignment="Left" Margin="100,188,0,0" VerticalAlignment="Top" Width="194" Height="52" Click="BtnSqlCommand_Click"/>
+        <TextBox x:Name="TxtResultaat" HorizontalAlignment="Left" Height="46" Margin="100,267,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="194" VerticalScrollBarVisibility="Auto"/>
+        <DataGrid x:Name="DgStud" HorizontalAlignment="Left" Height="249" Margin="335,100,0,0" VerticalAlignment="Top" Width="503"/>
+        <ListBox x:Name="LbxFuncties" HorizontalAlignment="Left" Height="249" Margin="888,100,0,0" VerticalAlignment="Top" Width="185"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_WPF\bin\Debug\CS_WPF.exe.config
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_WPF\bin\Debug\CS_WPF.exe
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_WPF\bin\Debug\CS_WPF.pdb
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_WPF\obj\Debug\CS_WPF.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_WPF\obj\Debug\Window2.g.cs
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_WPF\obj\Debug\App.g.cs
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_WPF\obj\Debug\CS_WPF_MarkupCompile.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_WPF\obj\Debug\CS_WPF_MarkupCompile.lref
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_WPF\obj\Debug\MainWindow.baml
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_WPF\obj\Debug\Window2.baml
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_WPF\obj\Debug\CS_WPF.g.resources
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_WPF\obj\Debug\CS_WPF.Properties.Resources.resources
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_WPF\obj\Debug\CS_WPF.csproj.GenerateResource.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_WPF\obj\Debug\CS_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_WPF\obj\Debug\CS_WPF.exe
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_WPF\obj\Debug\CS_WPF.pdb

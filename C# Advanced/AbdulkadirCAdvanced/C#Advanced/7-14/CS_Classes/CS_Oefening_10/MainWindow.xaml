@@ -1,0 +1,26 @@
+﻿<Window x:Class="CS_Oefening_010.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CS_Oefening_010"
+        mc:Ignorable="d"
+        Title="Gebruik van de klasse Personeel" Height="480" Width="720">
+    <Grid>
+        <Label x:Name="LblVoornaam" Content="Voornaam" HorizontalAlignment="Left" Margin="45,42,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LblNaam" Content="Naam" HorizontalAlignment="Left" Margin="45,71,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LblStartjaar" Content="Startjaar" HorizontalAlignment="Left" Margin="45,100,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LblGeslacht" Content="Geslacht" HorizontalAlignment="Left" Margin="45,129,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TxtVoornaam" HorizontalAlignment="Left" Height="23" Margin="122,43,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" LostFocus="TxtVoornaam_LostFocus"/>
+        <TextBox x:Name="TxtNaam" HorizontalAlignment="Left" Height="23" Margin="122,71,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" LostFocus="TxtNaam_LostFocus"/>
+        <TextBox x:Name="TxtStartjaar" HorizontalAlignment="Left" Height="23" Margin="122,101,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" LostFocus="TxtStartjaar_LostFocus"/>
+        <ComboBox x:Name="CboGeslacht" HorizontalAlignment="Left" Margin="122,132,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="CboGeslacht_SelectionChanged">
+            <ComboBoxItem IsSelected="True">M</ComboBoxItem>
+            <ComboBoxItem>V</ComboBoxItem>
+        </ComboBox>
+        <Button x:Name="BtnVerhoogBeoordeling" Content="Verhoog beoordeling" HorizontalAlignment="Left" Margin="408,176,0,0" VerticalAlignment="Top" Width="123" Height="24" Click="BtnVerhoogBeoordeling_Click"/>
+        <Button x:Name="BtnVerlaagBeoordeling" Content="Verlaag beoordeling" HorizontalAlignment="Left" Margin="408,216,0,0" VerticalAlignment="Top" Width="123" Height="24" Click="BtnVerlaagBeoordeling_Click"/>
+        <TextBox x:Name="TxtRes" HorizontalAlignment="Left" Height="101" Margin="45,176,0,0" TextWrapping="Wrap" Text="" IsReadOnly="True" FontFamily="Consolas" VerticalAlignment="Top" Width="324"/>
+
+    </Grid>
+</Window>

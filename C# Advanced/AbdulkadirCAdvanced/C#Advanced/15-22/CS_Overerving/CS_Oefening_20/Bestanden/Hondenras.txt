@@ -1,0 +1,10 @@
+Beagle;K;12,5
+Border Terrier;K;12,5
+Boxer;G;9
+Bulldog;MG;10,5
+Cavalier King Charles;K;12,5
+Chihuahua;K;12,5
+Cocker Spaniel;K;12,5
+Duitse Herder;G;9
+Dwerg Schnauzer;K;12,5
+Franse Bulldog;K;12,5

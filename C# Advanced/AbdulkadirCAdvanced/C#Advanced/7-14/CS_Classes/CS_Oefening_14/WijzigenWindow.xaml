@@ -1,0 +1,32 @@
+﻿<Window x:Class="CS_Oefening_14.WijzigenWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CS_Oefening_14"
+        mc:Ignorable="d"
+        Title="WijzigenWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="105,26,0,0" TextWrapping="Wrap" Text="Naam" VerticalAlignment="Top" FontStyle="Italic"/>
+        <TextBlock HorizontalAlignment="Left" Margin="108,86,0,0" TextWrapping="Wrap" Text="Voornaam" VerticalAlignment="Top" FontStyle="Italic"/>
+        <TextBlock HorizontalAlignment="Left" Margin="106,146,0,0" TextWrapping="Wrap" Text="Weeknr (1 to 9)" VerticalAlignment="Top" FontStyle="Italic"/>
+        <TextBlock HorizontalAlignment="Left" Margin="106,216,0,0" TextWrapping="Wrap" Text="Kamp volgnr." VerticalAlignment="Top" FontStyle="Italic"/>
+        <TextBlock HorizontalAlignment="Left" Margin="345,26,0,0" TextWrapping="Wrap" Text="Sportkamp" VerticalAlignment="Top" FontStyle="Italic"/>
+        <TextBox HorizontalAlignment="Left" Height="3" Margin="105,62,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="0"/>
+        <TextBox x:Name="TxtNaam" HorizontalAlignment="Left" Height="23" Margin="105,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxtVoornaam" HorizontalAlignment="Left" Height="23" Margin="105,108,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxtWeeknr" HorizontalAlignment="Left" Height="23" Margin="105,166,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxtKampvolgnr" HorizontalAlignment="Left" Height="23" Margin="105,236,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <ListBox x:Name="LbxSportkampen" HorizontalAlignment="Left" Height="197" Margin="346,46,0,0" VerticalAlignment="Top" Width="162">
+            <ListBoxItem Content="ATL - Atletiek"/>
+            <ListBoxItem Content="VOE - Voetbal"/>
+            <ListBoxItem Content="ZWE - Zwemmen"/>
+            <ListBoxItem Content="KAY - Kayak"/>
+            <ListBoxItem Content="TEN - Tennis"/>
+            <ListBoxItem Content="PAA - Paardrijden"/>
+            <ListBoxItem Content="VOL - Volleybal"/>
+        </ListBox>
+        <Button x:Name="BtnBewaren" Content="_Bewaren" HorizontalAlignment="Left" Margin="99,305,0,0" VerticalAlignment="Top" Width="140" Height="38" Click="BtnBewaren_Click"/>
+        <Button x:Name="BtnAnnuleren" Content="_Annuleren" HorizontalAlignment="Left" Margin="342,307,0,0" VerticalAlignment="Top" Width="140" RenderTransformOrigin="-1.711,2.677" Height="38" Click="BtnAnnuleren_Click"/>
+    </Grid>
+</Window>

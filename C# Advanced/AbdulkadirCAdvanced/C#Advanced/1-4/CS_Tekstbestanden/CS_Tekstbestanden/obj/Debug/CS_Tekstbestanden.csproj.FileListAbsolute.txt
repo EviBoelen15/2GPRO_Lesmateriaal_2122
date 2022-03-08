@@ -1,0 +1,15 @@
+C:\Users\Tom\Desktop\CS_Advanced\CS_Tekstbestanden\CS_Tekstbestanden\bin\Debug\CS_Tekstbestanden.exe.config
+C:\Users\Tom\Desktop\CS_Advanced\CS_Tekstbestanden\CS_Tekstbestanden\bin\Debug\CS_Tekstbestanden.exe
+C:\Users\Tom\Desktop\CS_Advanced\CS_Tekstbestanden\CS_Tekstbestanden\bin\Debug\CS_Tekstbestanden.pdb
+C:\Users\Tom\Desktop\CS_Advanced\CS_Tekstbestanden\CS_Tekstbestanden\obj\Debug\CS_Tekstbestanden.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_Tekstbestanden\CS_Tekstbestanden\obj\Debug\MainWindow.g.cs
+C:\Users\Tom\Desktop\CS_Advanced\CS_Tekstbestanden\CS_Tekstbestanden\obj\Debug\App.g.cs
+C:\Users\Tom\Desktop\CS_Advanced\CS_Tekstbestanden\CS_Tekstbestanden\obj\Debug\CS_Tekstbestanden_MarkupCompile.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_Tekstbestanden\CS_Tekstbestanden\obj\Debug\CS_Tekstbestanden_MarkupCompile.lref
+C:\Users\Tom\Desktop\CS_Advanced\CS_Tekstbestanden\CS_Tekstbestanden\obj\Debug\MainWindow.baml
+C:\Users\Tom\Desktop\CS_Advanced\CS_Tekstbestanden\CS_Tekstbestanden\obj\Debug\CS_Tekstbestanden.g.resources
+C:\Users\Tom\Desktop\CS_Advanced\CS_Tekstbestanden\CS_Tekstbestanden\obj\Debug\CS_Tekstbestanden.Properties.Resources.resources
+C:\Users\Tom\Desktop\CS_Advanced\CS_Tekstbestanden\CS_Tekstbestanden\obj\Debug\CS_Tekstbestanden.csproj.GenerateResource.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_Tekstbestanden\CS_Tekstbestanden\obj\Debug\CS_Tekstbestanden.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_Tekstbestanden\CS_Tekstbestanden\obj\Debug\CS_Tekstbestanden.exe
+C:\Users\Tom\Desktop\CS_Advanced\CS_Tekstbestanden\CS_Tekstbestanden\obj\Debug\CS_Tekstbestanden.pdb

@@ -1,0 +1,38 @@
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_Oefening_06\obj\Debug\CS_Oefening_06.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_Oefening_06\obj\Debug\MainWindow.g.cs
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_Oefening_06\obj\Debug\App.g.cs
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_Oefening_06\obj\Debug\CS_Oefening_06_MarkupCompile.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_Oefening_06\obj\Debug\CS_Oefening_06_MarkupCompile.lref
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_Oefening_06\obj\Debug\LoginWindow.g.cs
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_Oefening_06\bin\Debug\CS_Oefening_06.exe.config
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_Oefening_06\bin\Debug\CS_Oefening_06.exe
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_Oefening_06\bin\Debug\CS_Oefening_06.pdb
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_Oefening_06\obj\Debug\InfoWindow.g.cs
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_Oefening_06\obj\Debug\LoginWindow.baml
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_Oefening_06\obj\Debug\MainWindow.baml
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_Oefening_06\obj\Debug\InfoWindow.baml
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_Oefening_06\obj\Debug\CS_Oefening_06.g.resources
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_Oefening_06\obj\Debug\CS_Oefening_06.Properties.Resources.resources
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_Oefening_06\obj\Debug\CS_Oefening_06.csproj.GenerateResource.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_Oefening_06\obj\Debug\CS_Oefening_06.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_Oefening_06\obj\Debug\CS_Oefening_06.exe
+C:\Users\Tom\Desktop\CS_Advanced\CS_WPF\CS_Oefening_06\obj\Debug\CS_Oefening_06.pdb
+D:\PXL Grad 2020-2021\C#Advanced\5-6\CS_WPF\CS_Oefening_06\bin\Debug\CS_Oefening_06.exe.config
+D:\PXL Grad 2020-2021\C#Advanced\5-6\CS_WPF\CS_Oefening_06\bin\Debug\CS_Oefening_06.exe
+D:\PXL Grad 2020-2021\C#Advanced\5-6\CS_WPF\CS_Oefening_06\bin\Debug\CS_Oefening_06.pdb
+D:\PXL Grad 2020-2021\C#Advanced\5-6\CS_WPF\CS_Oefening_06\obj\Debug\CS_Oefening_06.csprojAssemblyReference.cache
+D:\PXL Grad 2020-2021\C#Advanced\5-6\CS_WPF\CS_Oefening_06\obj\Debug\InfoWindow.g.cs
+D:\PXL Grad 2020-2021\C#Advanced\5-6\CS_WPF\CS_Oefening_06\obj\Debug\LoginWindow.g.cs
+D:\PXL Grad 2020-2021\C#Advanced\5-6\CS_WPF\CS_Oefening_06\obj\Debug\MainWindow.g.cs
+D:\PXL Grad 2020-2021\C#Advanced\5-6\CS_WPF\CS_Oefening_06\obj\Debug\App.g.cs
+D:\PXL Grad 2020-2021\C#Advanced\5-6\CS_WPF\CS_Oefening_06\obj\Debug\CS_Oefening_06_MarkupCompile.cache
+D:\PXL Grad 2020-2021\C#Advanced\5-6\CS_WPF\CS_Oefening_06\obj\Debug\CS_Oefening_06_MarkupCompile.lref
+D:\PXL Grad 2020-2021\C#Advanced\5-6\CS_WPF\CS_Oefening_06\obj\Debug\InfoWindow.baml
+D:\PXL Grad 2020-2021\C#Advanced\5-6\CS_WPF\CS_Oefening_06\obj\Debug\LoginWindow.baml
+D:\PXL Grad 2020-2021\C#Advanced\5-6\CS_WPF\CS_Oefening_06\obj\Debug\MainWindow.baml
+D:\PXL Grad 2020-2021\C#Advanced\5-6\CS_WPF\CS_Oefening_06\obj\Debug\CS_Oefening_06.g.resources
+D:\PXL Grad 2020-2021\C#Advanced\5-6\CS_WPF\CS_Oefening_06\obj\Debug\CS_Oefening_06.Properties.Resources.resources
+D:\PXL Grad 2020-2021\C#Advanced\5-6\CS_WPF\CS_Oefening_06\obj\Debug\CS_Oefening_06.csproj.GenerateResource.cache
+D:\PXL Grad 2020-2021\C#Advanced\5-6\CS_WPF\CS_Oefening_06\obj\Debug\CS_Oefening_06.csproj.CoreCompileInputs.cache
+D:\PXL Grad 2020-2021\C#Advanced\5-6\CS_WPF\CS_Oefening_06\obj\Debug\CS_Oefening_06.exe
+D:\PXL Grad 2020-2021\C#Advanced\5-6\CS_WPF\CS_Oefening_06\obj\Debug\CS_Oefening_06.pdb

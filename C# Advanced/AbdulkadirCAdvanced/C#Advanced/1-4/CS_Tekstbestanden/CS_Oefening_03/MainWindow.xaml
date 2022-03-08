@@ -1,0 +1,17 @@
+﻿<Window x:Class="CS_Oefening_03.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CS_Oefening_03"
+        mc:Ignorable="d"
+        Title="Inlezen bestand met vaste lengte" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="TxtResultaat" HorizontalAlignment="Left" Height="250" Margin="48,48,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="600" IsReadOnly="True" FontFamily="Consolas"/>
+        <Button x:Name="BtnInlezen" Content="_Inlezen..." HorizontalAlignment="Left" Margin="48,320,0,0" VerticalAlignment="Top" Width="75" Click="BtnInlezen_Click"/>
+        <Button x:Name="BtnVerwerken" Content="_Verwerken" HorizontalAlignment="Left" Margin="147,320,0,0" VerticalAlignment="Top" Width="75" Click="BtnVerwerken_Click" IsEnabled="False"/>
+        <Button x:Name="BtnNalezen" Content="_Nalezen..." HorizontalAlignment="Left" Margin="244,320,0,0" VerticalAlignment="Top" Width="75" Click="BtnNalezen_Click" IsEnabled="False"/>
+        <Button x:Name="BtnSluiten" Content="_Sluiten" HorizontalAlignment="Left" Margin="343,320,0,0" VerticalAlignment="Top" Width="75" Click="BtnSluiten_Click"/>
+
+    </Grid>
+</Window>

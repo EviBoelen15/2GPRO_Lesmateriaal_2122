@@ -1,0 +1,16 @@
+﻿<Window x:Class="CS_Oefening_16.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CS_Oefening_16"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="BtnStudent" Content="Student" HorizontalAlignment="Left" Margin="46,44,0,0" VerticalAlignment="Top" Width="120" Height="32" Click="BtnStudent_Click"/>
+        <Button x:Name="BtnLector" Content="Lector" HorizontalAlignment="Left" Margin="194,44,0,0" VerticalAlignment="Top" Width="120" Height="32" Click="BtnLector_Click"/>
+        <Button x:Name="BtnPersoon" Content="Persoon" HorizontalAlignment="Left" Margin="340,44,0,0" VerticalAlignment="Top" Width="120" Height="32" Click="BtnPersoon_Click"/>
+        <TextBox x:Name="TxtEmail" HorizontalAlignment="Left" Height="32" Margin="498,44,0,0" TextWrapping="Wrap" Text="E-mail voor klasse Persoon" VerticalAlignment="Top" Width="170" GotFocus="TxtEmail_GotFocus"/>
+        <ListBox x:Name="LbxInfo" HorizontalAlignment="Left" Height="306" Margin="46,98,0,0" VerticalAlignment="Top" Width="622" RenderTransformOrigin="0.033,0.171"/>
+    </Grid>
+</Window>
