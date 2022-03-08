@@ -1,5 +1,0 @@
-C:\SCHOOL\C# ADVANCED\VoorbeeldenWPF\ClassLibraryBewerking\ClassLibraryBewerking\bin\Release\ClassLibraryBewerking.dll
-C:\SCHOOL\C# ADVANCED\VoorbeeldenWPF\ClassLibraryBewerking\ClassLibraryBewerking\bin\Release\ClassLibraryBewerking.pdb
-C:\SCHOOL\C# ADVANCED\VoorbeeldenWPF\ClassLibraryBewerking\ClassLibraryBewerking\obj\Release\ClassLibraryBewerking.csprojAssemblyReference.cache
-C:\SCHOOL\C# ADVANCED\VoorbeeldenWPF\ClassLibraryBewerking\ClassLibraryBewerking\obj\Release\ClassLibraryBewerking.dll
-C:\SCHOOL\C# ADVANCED\VoorbeeldenWPF\ClassLibraryBewerking\ClassLibraryBewerking\obj\Release\ClassLibraryBewerking.pdb
