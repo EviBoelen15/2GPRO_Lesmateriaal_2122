@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\PXL Grad 2020-2021\\C#Advanced\\15-22\\CS_Overerving\\CS_Oefening_22\\CS_Oefening_22.csproj": {}
+  },
+  "projects": {
+    "D:\\PXL Grad 2020-2021\\C#Advanced\\15-22\\CS_Overerving\\CS_Oefening_22\\CS_Oefening_22.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PXL Grad 2020-2021\\C#Advanced\\15-22\\CS_Overerving\\CS_Oefening_22\\CS_Oefening_22.csproj",
+        "projectName": "CS_Oefening_22",
+        "projectPath": "D:\\PXL Grad 2020-2021\\C#Advanced\\15-22\\CS_Overerving\\CS_Oefening_22\\CS_Oefening_22.csproj",
+        "packagesPath": "C:\\Users\\kadir\\.nuget\\packages\\",
+        "outputPath": "D:\\PXL Grad 2020-2021\\C#Advanced\\15-22\\CS_Overerving\\CS_Oefening_22\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kadir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\PXL Grad 2020-2021\\C#Advanced\\15-22\\CS_Overerving\\ValidatieLib\\ValidatieLib.csproj": {
+                "projectPath": "D:\\PXL Grad 2020-2021\\C#Advanced\\15-22\\CS_Overerving\\ValidatieLib\\ValidatieLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PXL Grad 2020-2021\\C#Advanced\\15-22\\CS_Overerving\\ValidatieLib\\ValidatieLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PXL Grad 2020-2021\\C#Advanced\\15-22\\CS_Overerving\\ValidatieLib\\ValidatieLib.csproj",
+        "projectName": "ValidatieLib",
+        "projectPath": "D:\\PXL Grad 2020-2021\\C#Advanced\\15-22\\CS_Overerving\\ValidatieLib\\ValidatieLib.csproj",
+        "packagesPath": "C:\\Users\\kadir\\.nuget\\packages\\",
+        "outputPath": "D:\\PXL Grad 2020-2021\\C#Advanced\\15-22\\CS_Overerving\\ValidatieLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kadir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

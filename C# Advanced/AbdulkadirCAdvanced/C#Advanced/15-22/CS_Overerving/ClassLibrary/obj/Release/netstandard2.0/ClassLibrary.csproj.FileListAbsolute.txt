@@ -1,0 +1,9 @@
+C:\Users\Tom\Desktop\CS_Advanced\CS_Overerving\ClassLibrary\bin\Release\netstandard2.0\ClassLibrary.deps.json
+C:\Users\Tom\Desktop\CS_Advanced\CS_Overerving\ClassLibrary\bin\Release\netstandard2.0\ClassLibrary.dll
+C:\Users\Tom\Desktop\CS_Advanced\CS_Overerving\ClassLibrary\bin\Release\netstandard2.0\ClassLibrary.pdb
+C:\Users\Tom\Desktop\CS_Advanced\CS_Overerving\ClassLibrary\obj\Release\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_Overerving\ClassLibrary\obj\Release\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_Overerving\ClassLibrary\obj\Release\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Tom\Desktop\CS_Advanced\CS_Overerving\ClassLibrary\obj\Release\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\CS_Advanced\CS_Overerving\ClassLibrary\obj\Release\netstandard2.0\ClassLibrary.dll
+C:\Users\Tom\Desktop\CS_Advanced\CS_Overerving\ClassLibrary\obj\Release\netstandard2.0\ClassLibrary.pdb

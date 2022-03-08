@@ -1,0 +1,15 @@
+D:\PXL Grad 2020-2021\C#Advanced\15-22\CS_Overerving\CS_Oefening_18\bin\Debug\CS_Oefening_18.exe.config
+D:\PXL Grad 2020-2021\C#Advanced\15-22\CS_Overerving\CS_Oefening_18\bin\Debug\CS_Oefening_18.exe
+D:\PXL Grad 2020-2021\C#Advanced\15-22\CS_Overerving\CS_Oefening_18\bin\Debug\CS_Oefening_18.pdb
+D:\PXL Grad 2020-2021\C#Advanced\15-22\CS_Overerving\CS_Oefening_18\obj\Debug\CS_Oefening_18.csprojAssemblyReference.cache
+D:\PXL Grad 2020-2021\C#Advanced\15-22\CS_Overerving\CS_Oefening_18\obj\Debug\MainWindow.g.cs
+D:\PXL Grad 2020-2021\C#Advanced\15-22\CS_Overerving\CS_Oefening_18\obj\Debug\App.g.cs
+D:\PXL Grad 2020-2021\C#Advanced\15-22\CS_Overerving\CS_Oefening_18\obj\Debug\CS_Oefening_18_MarkupCompile.cache
+D:\PXL Grad 2020-2021\C#Advanced\15-22\CS_Overerving\CS_Oefening_18\obj\Debug\CS_Oefening_18_MarkupCompile.lref
+D:\PXL Grad 2020-2021\C#Advanced\15-22\CS_Overerving\CS_Oefening_18\obj\Debug\MainWindow.baml
+D:\PXL Grad 2020-2021\C#Advanced\15-22\CS_Overerving\CS_Oefening_18\obj\Debug\CS_Oefening_18.g.resources
+D:\PXL Grad 2020-2021\C#Advanced\15-22\CS_Overerving\CS_Oefening_18\obj\Debug\CS_Oefening_18.Properties.Resources.resources
+D:\PXL Grad 2020-2021\C#Advanced\15-22\CS_Overerving\CS_Oefening_18\obj\Debug\CS_Oefening_18.csproj.GenerateResource.cache
+D:\PXL Grad 2020-2021\C#Advanced\15-22\CS_Overerving\CS_Oefening_18\obj\Debug\CS_Oefening_18.csproj.CoreCompileInputs.cache
+D:\PXL Grad 2020-2021\C#Advanced\15-22\CS_Overerving\CS_Oefening_18\obj\Debug\CS_Oefening_18.exe
+D:\PXL Grad 2020-2021\C#Advanced\15-22\CS_Overerving\CS_Oefening_18\obj\Debug\CS_Oefening_18.pdb

@@ -1,0 +1,22 @@
+﻿<Window x:Class="CS_Oefening_21.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CS_Oefening_21"
+        mc:Ignorable="d"
+        Title="Interface bankrekening" Height="360" Width="420">
+    <Grid>
+        <TextBox x:Name="TxtBedrag" HorizontalAlignment="Left" Height="23" Margin="241,141,0,0" TextWrapping="Wrap" Text="-750" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxtSaldo" HorizontalAlignment="Left" Height="23" Margin="241,190,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
+        <Button x:Name="BtnBerekenSaldo" Content="_Bereken saldo" HorizontalAlignment="Left" Margin="241,246,0,0" VerticalAlignment="Top" Width="120" Click="BtnBerekenSaldo_Click"/>
+        <Canvas HorizontalAlignment="Left" Height="100" Margin="96,21,0,0" VerticalAlignment="Top" Width="265" Background="DarkGray">
+            <Label x:Name="LblNaam" Content="Naam:" Canvas.Left="20" Canvas.Top="6" Width="70" Foreground="White"/>
+            <Label x:Name="LblRekeningnummer" Content="Rekeningnummer:" Canvas.Left="20" Canvas.Top="49" Foreground="White"/>
+            <TextBox x:Name="TxtNaam" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="Charlotte Maes" VerticalAlignment="Top" Width="120" Canvas.Left="135" Canvas.Top="10"/>
+            <TextBox x:Name="TxtRekeningnummer" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="001-234567-89" VerticalAlignment="Top" Width="120" Canvas.Left="135" Canvas.Top="53"/>
+        </Canvas>
+        <Label x:Name="LblStortingOpname" Content="Storting(+)/Opname(-):" HorizontalAlignment="Left" Margin="96,137,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LblSaldo" Content="Saldo:" HorizontalAlignment="Left" Margin="96,186,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

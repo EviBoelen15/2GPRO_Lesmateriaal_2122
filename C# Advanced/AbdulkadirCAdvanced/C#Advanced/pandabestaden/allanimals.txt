@@ -1,0 +1,16 @@
+<DockPanel Background="White">
+    <StackPanel Background="#58a518" DockPanel.Dock="Top">
+        <Image Height="170" Stretch="Uniform"></Image>
+    </StackPanel>
+    <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" HorizontalAlignment="Center"
+                Margin="20 10 20 0">
+        <TextBlock Width="50">Filter</TextBlock>
+
+        <TextBox Width="200" Margin="20 0" Name="TextBoxFilter"></TextBox>
+    </StackPanel>
+
+    <DataGrid HorizontalAlignment="Stretch" Margin="20 10" 
+                VerticalAlignment="Stretch" Name="AnimalGrid"
+                IsReadOnly="True"/>
+
+</DockPanel>

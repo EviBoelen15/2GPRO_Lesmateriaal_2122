@@ -1,0 +1,25 @@
+﻿<Window x:Class="CS_Oefening_19.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CS_Oefening_19"
+        mc:Ignorable="d"
+        Title="Interface - List bewerken" Height="320" Width="640">
+    <Grid>
+        <Label x:Name="LblModule" Content="Module:" HorizontalAlignment="Left" Margin="32,20,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TxtModule" HorizontalAlignment="Left" Height="23" Margin="90,22,0,0" TextWrapping="Wrap" Text="A11 Windows Server Admin" VerticalAlignment="Top" Width="320"/>
+        <ListBox x:Name="LbxModules" HorizontalAlignment="Left" Height="126" Margin="90,67,0,0" VerticalAlignment="Top" Width="320">
+            <ListBoxItem>A1 Windows OS Client</ListBoxItem>
+            <ListBoxItem>A2 Web Advanced</ListBoxItem>
+            <ListBoxItem>A4 Web Essentials</ListBoxItem>
+            <ListBoxItem>A5 C# Programmeren 1</ListBoxItem>
+            <ListBoxItem>A6 C# Programmeren 2</ListBoxItem>
+            <ListBoxItem>A8 Databanken</ListBoxItem>
+            <ListBoxItem>C2 Linux</ListBoxItem>
+        </ListBox>
+        <Button x:Name="BtnToevoegen" Content="Toevoegen" HorizontalAlignment="Left" Margin="436,22,0,0" VerticalAlignment="Top" Width="120" Height="24" Click="BtnToevoegen_Click"/>
+        <Button x:Name="BtnZoeken" Content="Zoeken" HorizontalAlignment="Left" Margin="436,67,0,0" VerticalAlignment="Top" Width="120" Height="24" Click="BtnZoeken_Click"/>
+        <Button x:Name="BtnVerwijderen" Content="Verwijderen" HorizontalAlignment="Left" Margin="436,110,0,0" VerticalAlignment="Top" Width="120" Height="24" Click="BtnVerwijderen_Click"/>
+    </Grid>
+</Window>

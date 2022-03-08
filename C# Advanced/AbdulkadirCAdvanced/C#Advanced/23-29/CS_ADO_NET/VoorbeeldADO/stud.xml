@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Stud>
+    <StudId>1</StudId>
+    <Naam>Tom Quareme</Naam>
+    <Opleiding>Graduaat Programmeren</Opleiding>
+    <GbDatum>1992-01-12T00:00:00+01:00</GbDatum>
+    <Telefoon>011111111</Telefoon>
+  </Stud>
+  <Stud>
+    <StudId>2</StudId>
+    <Naam>Paul Dox</Naam>
+    <Opleiding>Graduaat Digitale vormgeving</Opleiding>
+    <GbDatum>1972-03-17T00:00:00+01:00</GbDatum>
+    <Telefoon>011775101</Telefoon>
+  </Stud>
+  <Stud>
+    <StudId>3</StudId>
+    <Naam>Patricia Briers</Naam>
+    <Opleiding>Graduaat Systemen en netwerken</Opleiding>
+    <GbDatum>1971-10-17T00:00:00+02:00</GbDatum>
+    <Telefoon>011775102</Telefoon>
+  </Stud>
+  <Stud>
+    <StudId>4</StudId>
+    <Naam>Ann Das</Naam>
+    <Opleiding>Graduaat Ssystemen en netwerken</Opleiding>
+    <GbDatum>1990-12-15T00:00:00+01:00</GbDatum>
+    <Telefoon>011775103</Telefoon>
+  </Stud>
+</NewDataSet>

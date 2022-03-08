@@ -1,0 +1,28 @@
+﻿<Window x:Class="CS_Oefening_028.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CS_Oefening_028"
+        mc:Ignorable="d"
+        Title="Beheer medewerkers" Height="352.941" Width="557.983">
+    <Grid>
+        <Label x:Name="LblMnr" Content="Mnr" HorizontalAlignment="Left" Margin="40,55,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LblVoornaamEnNaam" Content="Voornaam en naam" HorizontalAlignment="Left" Margin="40,86,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LblFunctie" Content="Functie" HorizontalAlignment="Left" Margin="40,117,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LblChef" Content="Chef" HorizontalAlignment="Left" Margin="40,148,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LblGeboortedatum" Content="Geboortedatum" HorizontalAlignment="Left" Margin="40,179,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LblMaandsalEnComm" Content="Maandsal en comm" HorizontalAlignment="Left" Margin="40,210,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LblAfdeling" Content="Afdeling" HorizontalAlignment="Left" Margin="40,241,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TxtMnr" HorizontalAlignment="Left" Height="23" Margin="158,55,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="76" MaxLength="4" />
+        <Button x:Name="BtnZoekMedewerker" Content="Zoek medewerker" HorizontalAlignment="Left" Margin="255,55,0,0" VerticalAlignment="Top" Width="123" Height="19" Click="BtnZoekMedewerker_Click"/>
+        <TextBox x:Name="TxtVoornaam" HorizontalAlignment="Left" Height="23" Margin="158,89,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" IsEnabled="False" IsReadOnly="True"/>
+        <TextBox x:Name="TxtNaam" HorizontalAlignment="Left" Height="23" Margin="305,89,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="208" IsEnabled="False" IsReadOnly="True"/>
+        <TextBox x:Name="TxtFunctie" HorizontalAlignment="Left" Height="23" Margin="158,119,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="355" IsEnabled="False" IsReadOnly="True"/>
+        <TextBox x:Name="TxtChef" HorizontalAlignment="Left" Height="23" Margin="158,151,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="355" IsEnabled="False" IsReadOnly="True"/>
+        <TextBox x:Name="TxtGeboortedatum" HorizontalAlignment="Left" Height="23" Margin="158,182,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="355" IsEnabled="False" IsReadOnly="True"/>
+        <TextBox x:Name="TxtMaandsal" HorizontalAlignment="Left" Height="23" Margin="158,212,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" IsEnabled="False" IsReadOnly="True"/>
+        <TextBox x:Name="TxtComm" HorizontalAlignment="Left" Height="23" Margin="305,212,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="208" IsEnabled="False" IsReadOnly="True"/>
+        <TextBox x:Name="TxtAfdeling" HorizontalAlignment="Left" Height="23" Margin="158,244,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" IsEnabled="False" IsReadOnly="True"/>
+    </Grid>
+</Window>
