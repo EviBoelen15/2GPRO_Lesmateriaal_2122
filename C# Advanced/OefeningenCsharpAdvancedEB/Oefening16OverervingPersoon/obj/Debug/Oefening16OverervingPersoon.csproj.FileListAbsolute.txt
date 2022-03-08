@@ -1,0 +1,15 @@
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening16OverervingPersoon\bin\Debug\Oefening16OverervingPersoon.exe.config
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening16OverervingPersoon\bin\Debug\Oefening16OverervingPersoon.exe
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening16OverervingPersoon\bin\Debug\Oefening16OverervingPersoon.pdb
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening16OverervingPersoon\obj\Debug\Oefening16OverervingPersoon.csproj.AssemblyReference.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening16OverervingPersoon\obj\Debug\MainWindow.g.cs
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening16OverervingPersoon\obj\Debug\App.g.cs
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening16OverervingPersoon\obj\Debug\Oefening16OverervingPersoon_MarkupCompile.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening16OverervingPersoon\obj\Debug\Oefening16OverervingPersoon_MarkupCompile.lref
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening16OverervingPersoon\obj\Debug\MainWindow.baml
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening16OverervingPersoon\obj\Debug\Oefening16OverervingPersoon.g.resources
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening16OverervingPersoon\obj\Debug\Oefening16OverervingPersoon.Properties.Resources.resources
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening16OverervingPersoon\obj\Debug\Oefening16OverervingPersoon.csproj.GenerateResource.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening16OverervingPersoon\obj\Debug\Oefening16OverervingPersoon.csproj.CoreCompileInputs.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening16OverervingPersoon\obj\Debug\Oefening16OverervingPersoon.exe
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening16OverervingPersoon\obj\Debug\Oefening16OverervingPersoon.pdb
