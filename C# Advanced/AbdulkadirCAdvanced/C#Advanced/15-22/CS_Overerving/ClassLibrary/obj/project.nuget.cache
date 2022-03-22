@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "HYbuoM53vl4/2CMXMO7PZBmkUuqROX4edwOSTxBVSLsCnIVOJry/Rr1ZxHGgZ4waQKUXHwKwRlJgdOtaOzl8HA==",
+  "dgSpecHash": "YK8LJ79f2GLvTYnpcKOBrnXFwiI6LOKN8D88hoH3KytTR3EJpB/hcK2TL44xR/B3QrbiiL3zQy/R282W8eaxXA==",
   "success": true,
-  "projectFilePath": "D:\\PXL Grad 2020-2021\\C#Advanced\\15-22\\CS_Overerving\\ClassLibrary\\ClassLibrary.csproj",
+  "projectFilePath": "D:\\2GPRO_Lesmateriaal_2122\\C# Advanced\\AbdulkadirCAdvanced\\C#Advanced\\15-22\\CS_Overerving\\ClassLibrary\\ClassLibrary.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\kadir\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\kadir\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Pinkk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Pinkk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

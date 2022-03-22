@@ -30,20 +30,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kadir\\.nuget\\packages\\": {}
+    "C:\\Users\\Pinkk\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PXL Grad 2020-2021\\C#Advanced\\15-22\\CS_Overerving\\CS_Oefening_22\\CS_Oefening_22.csproj",
+      "projectUniqueName": "D:\\2GPRO_Lesmateriaal_2122\\C# Advanced\\AbdulkadirCAdvanced\\C#Advanced\\15-22\\CS_Overerving\\CS_Oefening_22\\CS_Oefening_22.csproj",
       "projectName": "CS_Oefening_22",
-      "projectPath": "D:\\PXL Grad 2020-2021\\C#Advanced\\15-22\\CS_Overerving\\CS_Oefening_22\\CS_Oefening_22.csproj",
-      "packagesPath": "C:\\Users\\kadir\\.nuget\\packages\\",
-      "outputPath": "D:\\PXL Grad 2020-2021\\C#Advanced\\15-22\\CS_Overerving\\CS_Oefening_22\\obj\\",
+      "projectPath": "D:\\2GPRO_Lesmateriaal_2122\\C# Advanced\\AbdulkadirCAdvanced\\C#Advanced\\15-22\\CS_Overerving\\CS_Oefening_22\\CS_Oefening_22.csproj",
+      "packagesPath": "C:\\Users\\Pinkk\\.nuget\\packages\\",
+      "outputPath": "D:\\2GPRO_Lesmateriaal_2122\\C# Advanced\\AbdulkadirCAdvanced\\C#Advanced\\15-22\\CS_Overerving\\CS_Oefening_22\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\kadir\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Pinkk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -56,8 +64,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\PXL Grad 2020-2021\\C#Advanced\\15-22\\CS_Overerving\\ValidatieLib\\ValidatieLib.csproj": {
-              "projectPath": "D:\\PXL Grad 2020-2021\\C#Advanced\\15-22\\CS_Overerving\\ValidatieLib\\ValidatieLib.csproj"
+            "D:\\2GPRO_Lesmateriaal_2122\\C# Advanced\\AbdulkadirCAdvanced\\C#Advanced\\15-22\\CS_Overerving\\ValidatieLib\\ValidatieLib.csproj": {
+              "projectPath": "D:\\2GPRO_Lesmateriaal_2122\\C# Advanced\\AbdulkadirCAdvanced\\C#Advanced\\15-22\\CS_Overerving\\ValidatieLib\\ValidatieLib.csproj"
             }
           }
         }
@@ -89,7 +97,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,15 @@
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening17ABankrekening\obj\Debug\Oefening17ABankrekening.csproj.AssemblyReference.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening17ABankrekening\obj\Debug\MainWindow.g.cs
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening17ABankrekening\obj\Debug\App.g.cs
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening17ABankrekening\obj\Debug\Oefening17ABankrekening_MarkupCompile.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening17ABankrekening\obj\Debug\Oefening17ABankrekening_MarkupCompile.lref
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening17ABankrekening\bin\Debug\Oefening17ABankrekening.exe.config
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening17ABankrekening\bin\Debug\Oefening17ABankrekening.exe
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening17ABankrekening\bin\Debug\Oefening17ABankrekening.pdb
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening17ABankrekening\obj\Debug\MainWindow.baml
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening17ABankrekening\obj\Debug\Oefening17ABankrekening.g.resources
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening17ABankrekening\obj\Debug\Oefening17ABankrekening.Properties.Resources.resources
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening17ABankrekening\obj\Debug\Oefening17ABankrekening.csproj.GenerateResource.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening17ABankrekening\obj\Debug\Oefening17ABankrekening.csproj.CoreCompileInputs.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening17ABankrekening\obj\Debug\Oefening17ABankrekening.exe
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening17ABankrekening\obj\Debug\Oefening17ABankrekening.pdb
