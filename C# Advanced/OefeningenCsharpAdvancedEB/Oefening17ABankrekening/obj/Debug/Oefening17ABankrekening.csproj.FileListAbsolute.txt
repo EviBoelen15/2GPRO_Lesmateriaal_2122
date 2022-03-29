@@ -1,4 +1,3 @@
-D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening17ABankrekening\obj\Debug\Oefening17ABankrekening.csproj.AssemblyReference.cache
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening17ABankrekening\obj\Debug\MainWindow.g.cs
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening17ABankrekening\obj\Debug\App.g.cs
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening17ABankrekening\obj\Debug\Oefening17ABankrekening_MarkupCompile.cache

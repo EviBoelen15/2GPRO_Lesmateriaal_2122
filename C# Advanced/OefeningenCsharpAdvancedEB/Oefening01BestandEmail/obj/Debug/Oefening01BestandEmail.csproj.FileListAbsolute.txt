@@ -1,4 +1,3 @@
-D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening01BestandEmail\obj\Debug\Oefening01BestandEmail.csproj.AssemblyReference.cache
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening01BestandEmail\obj\Debug\MainWindow.g.cs
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening01BestandEmail\obj\Debug\App.g.cs
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening01BestandEmail\obj\Debug\Oefening01BestandEmail_MarkupCompile.cache

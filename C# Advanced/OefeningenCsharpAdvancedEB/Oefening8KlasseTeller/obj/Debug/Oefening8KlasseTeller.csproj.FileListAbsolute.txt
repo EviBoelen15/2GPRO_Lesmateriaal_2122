@@ -12,4 +12,3 @@ D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening8Klass
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening8KlasseTeller\obj\Debug\Oefening8KlasseTeller.csproj.CoreCompileInputs.cache
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening8KlasseTeller\obj\Debug\Oefening8KlasseTeller.exe
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening8KlasseTeller\obj\Debug\Oefening8KlasseTeller.pdb
-D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening8KlasseTeller\obj\Debug\Oefening8KlasseTeller.csproj.AssemblyReference.cache

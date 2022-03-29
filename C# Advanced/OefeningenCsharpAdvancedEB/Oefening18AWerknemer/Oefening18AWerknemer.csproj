@@ -53,7 +53,12 @@
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
       <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Bedienden.cs" />
+    <Compile Include="Commissie.cs" />
+    <Compile Include="Kader.cs" />
+    <Compile Include="Werknemer.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>

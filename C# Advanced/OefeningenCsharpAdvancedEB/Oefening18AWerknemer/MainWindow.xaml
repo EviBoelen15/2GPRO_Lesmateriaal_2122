@@ -7,6 +7,11 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button x:Name="BtnWerknemer" Content="Werknemer" HorizontalAlignment="Left" Margin="66,47,0,0" VerticalAlignment="Top" Width="75" Click="BtnWerknemer_Click"/>
+        <Button x:Name="BtnBediende" Content="Bediende" HorizontalAlignment="Left" Margin="166,47,0,0" VerticalAlignment="Top" Width="75" Click="BtnBediende_Click" IsEnabled="False"/>
+        <Button x:Name="BtnKader" Content="Kader" HorizontalAlignment="Left" Margin="266,47,0,0" VerticalAlignment="Top" Width="75" IsEnabled="False" Click="BtnKader_Click"/>
+        <Button x:Name="BtnCommissie" Content="Commissie" HorizontalAlignment="Left" Margin="366,47,0,0" VerticalAlignment="Top" Width="75" Click="BtnCommissie_Click" IsEnabled="False"/>
+        <Label x:Name="LblInfo" Content="Info" HorizontalAlignment="Left" Margin="66,90,0,0" VerticalAlignment="Top" Width="75" FontSize="14" FontStyle="Italic" FontWeight="Bold" IsEnabled="False"/>
+        <ListBox x:Name="LbxLoon" HorizontalAlignment="Left" Height="244" Margin="66,124,0,0" VerticalAlignment="Top" Width="703" FontFamily="Consolas"/>
     </Grid>
 </Window>
