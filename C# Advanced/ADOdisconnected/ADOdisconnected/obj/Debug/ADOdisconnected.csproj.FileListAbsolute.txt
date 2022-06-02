@@ -1,0 +1,17 @@
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected.csproj.AssemblyReference.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\ADOdisconnected\ADOdisconnected\obj\Debug\MainWindow.g.cs
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\ADOdisconnected\ADOdisconnected\obj\Debug\Profiel.g.cs
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\ADOdisconnected\ADOdisconnected\obj\Debug\App.g.cs
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected_MarkupCompile.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected_MarkupCompile.lref
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\ADOdisconnected\ADOdisconnected\bin\Debug\ADOdisconnected.exe.config
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\ADOdisconnected\ADOdisconnected\bin\Debug\ADOdisconnected.exe
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\ADOdisconnected\ADOdisconnected\bin\Debug\ADOdisconnected.pdb
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\ADOdisconnected\ADOdisconnected\obj\Debug\MainWindow.baml
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\ADOdisconnected\ADOdisconnected\obj\Debug\Profiel.baml
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected.g.resources
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected.Properties.Resources.resources
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected.csproj.GenerateResource.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected.csproj.CoreCompileInputs.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected.exe
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected.pdb
