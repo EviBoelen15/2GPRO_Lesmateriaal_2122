@@ -12,3 +12,4 @@ D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\OefeningenCsha
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\OefeningenCsharpAdvancedEB\obj\Debug\Oefening7KlasseBankrekening.csproj.CoreCompileInputs.cache
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\OefeningenCsharpAdvancedEB\obj\Debug\OefeningenCsharpAdvancedEB.exe
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\OefeningenCsharpAdvancedEB\obj\Debug\OefeningenCsharpAdvancedEB.pdb
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\OefeningenCsharpAdvancedEB\obj\Debug\Oefening7KlasseBankrekening.csproj.AssemblyReference.cache

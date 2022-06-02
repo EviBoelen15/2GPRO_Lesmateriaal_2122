@@ -12,3 +12,4 @@ D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening3Besta
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening3BestandPunten\obj\Debug\Oefening3BestandPunten.csproj.CoreCompileInputs.cache
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening3BestandPunten\obj\Debug\Oefening3BestandPunten.exe
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening3BestandPunten\obj\Debug\Oefening3BestandPunten.pdb
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening3BestandPunten\obj\Debug\Oefening3BestandPunten.csproj.AssemblyReference.cache

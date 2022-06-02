@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeMol", "DeMol\DeMol.csproj", "{C0E3273B-4929-4086-9A73-BDCFE3F06B79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0E3273B-4929-4086-9A73-BDCFE3F06B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E3273B-4929-4086-9A73-BDCFE3F06B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E3273B-4929-4086-9A73-BDCFE3F06B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E3273B-4929-4086-9A73-BDCFE3F06B79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA7EFF37-E4A7-4F26-AF27-7AB9C389E497}
+	EndGlobalSection
+EndGlobal
