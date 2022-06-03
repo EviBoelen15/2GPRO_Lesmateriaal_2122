@@ -1,0 +1,21 @@
+﻿<Window x:Class="MolConnected.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MolConnected"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel Background="#010506">
+        <Image DockPanel.Dock="Left"  Source="images/DeMol.jpg"></Image>
+        <StackPanel VerticalAlignment="Center">
+            <TextBlock Margin="50 10" Foreground="White">Naam</TextBlock>
+            <TextBox Margin="50 10" Name="TextBoxNaam"></TextBox>
+            <TextBlock Margin="50 10" Foreground="White">Wachtwoord</TextBlock>
+            <TextBox Margin="50 10" Name="TextBoxWachtWoord"></TextBox>
+            <Button Margin="50 20" Click="Aanmelden_Click">Aanmelden</Button>
+            <TextBlock Margin="50 10" Foreground="Red" Name="ErrorTextBlock"></TextBlock>
+            <CheckBox Margin="50 0" Foreground="White" Name="CheckBoxSQL" Checked="CheckBoxSQL_Checked">SQL injectie</CheckBox>
+        </StackPanel>
+    </DockPanel>
+</Window>

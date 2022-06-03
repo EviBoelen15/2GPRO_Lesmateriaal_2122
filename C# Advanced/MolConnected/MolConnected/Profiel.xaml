@@ -1,0 +1,78 @@
+﻿<Window x:Class="MolConnected.Profiel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MolConnected"
+        mc:Ignorable="d"
+        Title="Profiel" Height="450" Width="800">
+    <Grid  Background="#010506">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="1" Foreground="White" FontSize="20"
+                HorizontalAlignment="Center" VerticalAlignment="Center">
+        Naam
+        </TextBlock>
+        <TextBlock Grid.Row="1" Grid.Column="1" Foreground="White" FontSize="20"
+                HorizontalAlignment="Center" VerticalAlignment="Center"
+                Name="NaamTextBlock">
+        Naam
+        </TextBlock>
+        <TextBlock Grid.Row="2" Foreground="White" FontSize="20"
+                HorizontalAlignment="Center" VerticalAlignment="Center">
+        Leeftijd
+        </TextBlock>
+        <TextBlock Grid.Row="2" Grid.Column="1" Foreground="White" FontSize="20"
+                HorizontalAlignment="Center" VerticalAlignment="Center"
+                Name="LeeftijdTextBlock">
+        Leeftijd
+        </TextBlock>
+        <TextBlock Grid.Row="3" Foreground="White" FontSize="20"
+                HorizontalAlignment="Center" VerticalAlignment="Center">
+        Beroep
+        </TextBlock>
+        <TextBlock Grid.Row="3" Grid.Column="1" Foreground="White" FontSize="20"
+                HorizontalAlignment="Center" VerticalAlignment="Center"
+                Name="BeroepTextBlock">
+        Beroep
+        </TextBlock>
+        <TextBlock Grid.Row="4" Foreground="White" FontSize="20"
+                HorizontalAlignment="Center" VerticalAlignment="Center">
+        Locatie Spel
+        </TextBlock>
+        <TextBlock Grid.Row="4" Grid.Column="1" Foreground="White" FontSize="20"
+                HorizontalAlignment="Center" VerticalAlignment="Center"
+                Name="LocatieSpelTextBlock">
+        Locatie Spel
+        </TextBlock>
+        <TextBlock Grid.Row="5" Foreground="White" FontSize="20"
+                HorizontalAlignment="Center" VerticalAlignment="Center">
+        Jaar Van Deelname
+        </TextBlock>
+        <TextBlock Grid.Row="5" Grid.Column="1" Foreground="White" FontSize="20"
+                HorizontalAlignment="Center" VerticalAlignment="Center"
+                Name="JaarTextBlock">
+        Jaar Van Deelname
+        </TextBlock>
+        <TextBlock Grid.Row="6" Grid.ColumnSpan="2" Foreground="White" FontSize="20" 
+                HorizontalAlignment="Center" VerticalAlignment="Center"
+                Name="MolTextBlock">
+        Je ben niet de mol
+        </TextBlock>
+
+        <Image Name="DeMolImage" Source="images/DeMol.jpg" Grid.Row="7" HorizontalAlignment="Left"></Image>
+
+    </Grid>
+</Window>
