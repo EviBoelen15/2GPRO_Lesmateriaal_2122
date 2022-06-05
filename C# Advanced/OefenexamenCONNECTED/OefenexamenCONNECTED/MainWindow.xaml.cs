@@ -32,24 +32,26 @@ namespace OefenexamenCONNECTED
         public MainWindow()
         {
             InitializeComponent();
-            OpenStudentFile();
-        }
-
-        public void OpenStudentFile()
-        {
-            /*
             string cn = Properties.Settings.Default.CNstr.ToString();
             SqlConnection sqlcn = new SqlConnection(cn);
 
             sqlcn.Open();
-            if(sqlcn.State == System.Data.ConnectionState.Open)
+            if (sqlcn.State == System.Data.ConnectionState.Open)
             {
                 MessageBox.Show("Connection established");
             }
             else
             {
                 MessageBox.Show("Connection nog open");
-            }*/
+            }
+            
+            //OpenStudentFile();
+        }
+
+        public void OpenStudentFile()
+        {
+            /*
+            */
 
             OpenFileDialog ofd = new OpenFileDialog
             {

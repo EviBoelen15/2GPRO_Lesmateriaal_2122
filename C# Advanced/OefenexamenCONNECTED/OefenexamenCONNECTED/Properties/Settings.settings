@@ -5,9 +5,9 @@
     <Setting Name="CNstr" Type="(Connection string)" Scope="Application">
       <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
 &lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;ConnectionString&gt;Integrated Security=SSPI;Persist Security Info=False;User ID="";Initial Catalog=Spionshop;Data Source=DESKTOP-NRH4IK3\PXLDIGITALTEST;Initial File Name="";&lt;/ConnectionString&gt;
+  &lt;ConnectionString&gt;Password="pxl";Persist Security Info=True;User ID=sa;Initial Catalog=Spionshop;Data Source=LAPTOP-G6RERC08\PXLDIGITALTEST&lt;/ConnectionString&gt;
 &lt;/SerializableConnectionString&gt;</DesignTimeValue>
-      <Value Profile="(Default)">Integrated Security=SSPI;Persist Security Info=False;User ID="";Initial Catalog=Spionshop;Data Source=DESKTOP-NRH4IK3\PXLDIGITALTEST;Initial File Name="";</Value>
+      <Value Profile="(Default)">Password="pxl";Persist Security Info=True;User ID=sa;Initial Catalog=Spionshop;Data Source=LAPTOP-G6RERC08\PXLDIGITALTEST</Value>
     </Setting>
   </Settings>
 </SettingsFile>

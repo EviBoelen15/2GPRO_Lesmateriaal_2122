@@ -26,8 +26,8 @@ namespace OefenexamenCONNECTED.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Integrated Security=SSPI;Persist Security Info=False;User ID=\"\";Initial Catalog=S" +
-            "pionshop;Data Source=DESKTOP-NRH4IK3\\PXLDIGITALTEST;Initial File Name=\"\";")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Password=\"pxl\";Persist Security Info=True;User ID=sa;Initial Catalog=Spionshop;Da" +
+            "ta Source=LAPTOP-G6RERC08\\PXLDIGITALTEST")]
         public string CNstr {
             get {
                 return ((string)(this["CNstr"]));

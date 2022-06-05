@@ -14,3 +14,4 @@ D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefenexamenCONNECTED\OefenexamenCONNECTED
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefenexamenCONNECTED\OefenexamenCONNECTED\obj\Debug\OefenexamenCONNECTED.csproj.CoreCompileInputs.cache
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefenexamenCONNECTED\OefenexamenCONNECTED\obj\Debug\OefenexamenCONNECTED.exe
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefenexamenCONNECTED\OefenexamenCONNECTED\obj\Debug\OefenexamenCONNECTED.pdb
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefenexamenCONNECTED\OefenexamenCONNECTED\obj\Debug\OefenexamenCONNECTED.csproj.AssemblyReference.cache
