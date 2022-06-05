@@ -1,0 +1,17 @@
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefenexamen\Oefenexamen\bin\Debug\Oefenexamen.exe.config
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefenexamen\Oefenexamen\bin\Debug\Oefenexamen.exe
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefenexamen\Oefenexamen\bin\Debug\Oefenexamen.pdb
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefenexamen\Oefenexamen\obj\Debug\MainWindow.g.cs
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefenexamen\Oefenexamen\obj\Debug\App.g.cs
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefenexamen\Oefenexamen\obj\Debug\Oefenexamen_MarkupCompile.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefenexamen\Oefenexamen\obj\Debug\Oefenexamen_MarkupCompile.lref
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefenexamen\Oefenexamen\obj\Debug\MainWindow.baml
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefenexamen\Oefenexamen\obj\Debug\Oefenexamen.g.resources
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefenexamen\Oefenexamen\obj\Debug\Oefenexamen.Properties.Resources.resources
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefenexamen\Oefenexamen\obj\Debug\Oefenexamen.csproj.GenerateResource.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefenexamen\Oefenexamen\obj\Debug\Oefenexamen.csproj.CoreCompileInputs.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefenexamen\Oefenexamen\obj\Debug\Oefenexamen.exe
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefenexamen\Oefenexamen\obj\Debug\Oefenexamen.pdb
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefenexamen\Oefenexamen\obj\Debug\Overzicht.g.cs
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefenexamen\Oefenexamen\obj\Debug\Overzicht.baml
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefenexamen\Oefenexamen\obj\Debug\Oefenexamen.csproj.AssemblyReference.cache
