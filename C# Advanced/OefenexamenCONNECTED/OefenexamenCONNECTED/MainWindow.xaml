@@ -1,0 +1,25 @@
+﻿<Window x:Class="OefenexamenCONNECTED.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OefenexamenCONNECTED"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Loaded="Grid_Loaded">
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="Bestand">
+                <MenuItem Header="_Exit" Click="ExitItem_Click" />
+            </MenuItem>
+            <MenuItem Header="Student">
+                <MenuItem Header="Opslaan CSV Bestand" Click="CSVItem_Click" />
+                <MenuItem Header="Opslaan DATA Bestand" Click="DataBestand_Click" />
+                <MenuItem Header="Overzicht gegevens" Click="Overzicht_Click"/>
+                <Separator />
+                <MenuItem Header="_Exit" />
+            </MenuItem>
+        </Menu>
+        <ListBox x:Name="lbxStudenten" HorizontalAlignment="Left" Height="383" Margin="10,26,0,0" VerticalAlignment="Top" Width="772" SelectionChanged="lbxStudenten_SelectionChanged"/>
+
+    </Grid>
+</Window>
