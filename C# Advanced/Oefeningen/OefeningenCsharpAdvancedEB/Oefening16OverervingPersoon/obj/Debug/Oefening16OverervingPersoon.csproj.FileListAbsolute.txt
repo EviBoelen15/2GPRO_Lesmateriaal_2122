@@ -27,3 +27,4 @@ D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oef
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening16OverervingPersoon\obj\Debug\Oefening16OverervingPersoon.csproj.CoreCompileInputs.cache
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening16OverervingPersoon\obj\Debug\Oefening16OverervingPersoon.exe
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening16OverervingPersoon\obj\Debug\Oefening16OverervingPersoon.pdb
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening16OverervingPersoon\obj\Debug\Oefening16OverervingPersoon.csproj.AssemblyReference.cache

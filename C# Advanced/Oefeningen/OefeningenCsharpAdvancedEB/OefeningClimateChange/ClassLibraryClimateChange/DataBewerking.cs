@@ -21,6 +21,7 @@ namespace OefeningClimateChange.ClassLibraryClimateChange
         {
 
         }
+
         public static List<Country> GetCountries()
         {
             List<Country> countries = new List<Country>();
@@ -117,9 +118,9 @@ namespace OefeningClimateChange.ClassLibraryClimateChange
                 {
                     string readLine = sr.ReadLine();
                     string[] countryInfo = readLine.Split(',');
-                    string countryCode = countryInfo[0];
-                    string countryName = countryInfo[1];
-                    string imageFilePath = countryInfo[2];
+                    string countryCode = countryInfo[2];
+                    string countryName = countryInfo[0];
+                    string imageFilePath = countryInfo[1];
                     string region = countryInfo[3];
                     string subRegion = countryInfo[4];
                     dtCountries.Rows.Add(countryCode, countryName, imageFilePath, region, subRegion);
@@ -144,10 +145,10 @@ namespace OefeningClimateChange.ClassLibraryClimateChange
                 {
                     string readLine = sr.ReadLine();
                     string[] tempInfo = readLine.Split(',');
-                    double change = double.Parse(tempInfo[0]);
-                    string countryCode = tempInfo[1];
-                    string countryName = tempInfo[2];
-                    int year = int.Parse(tempInfo[3]);
+                    string change = tempInfo[3];
+                    string countryCode = tempInfo[0];
+                    string countryName = tempInfo[1];
+                    string year = tempInfo[2];
                     dtTempChanges.Rows.Add(countryCode, countryName, year, change);
                 }
             }

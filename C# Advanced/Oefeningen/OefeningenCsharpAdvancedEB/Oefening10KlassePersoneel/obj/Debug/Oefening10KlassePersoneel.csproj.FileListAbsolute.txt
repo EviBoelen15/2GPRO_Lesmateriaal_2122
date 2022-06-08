@@ -27,3 +27,4 @@ D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oef
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening10KlassePersoneel\obj\Debug\Oefening10KlassePersoneel.csproj.CoreCompileInputs.cache
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening10KlassePersoneel\obj\Debug\Oefening10KlassePersoneel.exe
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening10KlassePersoneel\obj\Debug\Oefening10KlassePersoneel.pdb
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening10KlassePersoneel\obj\Debug\Oefening10KlassePersoneel.csproj.AssemblyReference.cache

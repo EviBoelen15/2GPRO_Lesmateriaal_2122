@@ -27,3 +27,4 @@ D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oef
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening01BestandEmail\obj\Debug\Oefening01BestandEmail.csproj.CoreCompileInputs.cache
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening01BestandEmail\obj\Debug\Oefening01BestandEmail.exe
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening01BestandEmail\obj\Debug\Oefening01BestandEmail.pdb
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening01BestandEmail\obj\Debug\Oefening01BestandEmail.csproj.AssemblyReference.cache
