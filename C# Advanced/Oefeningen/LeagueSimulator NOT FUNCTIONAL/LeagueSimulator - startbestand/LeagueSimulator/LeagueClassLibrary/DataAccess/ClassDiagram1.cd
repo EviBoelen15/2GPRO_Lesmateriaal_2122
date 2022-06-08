@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LeagueSimulator.LeagueClassLibrary.DataAccess.AbilityData" HideInheritanceLine="true">
+    <Position X="5.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>LeagueClassLibrary\DataAccess\AbilityData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeagueSimulator.LeagueClassLibrary.DataAccess.ChampionData" Collapsed="true" HideInheritanceLine="true">
+    <Position X="8.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAABAAAAAAAAAEAAAAAAAAAAAGAABAQAAAAA=</HashCode>
+      <FileName>LeagueClassLibrary\DataAccess\ChampionData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeagueSimulator.LeagueClassLibrary.DataAccess.MatchData" HideInheritanceLine="true">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAABAAAAAAAAAAAAAAAAAABQAAAAAAAAAQAAAE=</HashCode>
+      <FileName>LeagueClassLibrary\DataAccess\MatchData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeagueSimulator.LeagueClassLibrary.Entities.Ability" Collapsed="true" HideInheritanceLine="true">
+    <Position X="0.75" Y="4" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAAAAAAQAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>LeagueClassLibrary\Entities\Ability.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeagueSimulator.LeagueClassLibrary.Entities.Champion" Collapsed="true" HideInheritanceLine="true">
+    <Position X="0.5" Y="4.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAQAAIAACAkAkAAFAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LeagueClassLibrary\Entities\Champion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeagueSimulator.LeagueClassLibrary.Entities.Match" Collapsed="true" HideInheritanceLine="true">
+    <Position X="3.5" Y="4.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAACgAgAAAAAAAAAQAAAAAAAAgAA=</HashCode>
+      <FileName>LeagueClassLibrary\Entities\Match.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LeagueSimulator.LeagueClassLibrary.Entities.SummonersRift" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LeagueClassLibrary\Entities\SummonersRift.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LeagueSimulator.LeagueClassLibrary.Entities.TwistedTreeline" Collapsed="true">
+    <Position X="3.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LeagueClassLibrary\Entities\TwistedTreeline.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="LeagueSimulator.LeagueClassLibrary.Entities.IWinnable" Collapsed="true">
+    <Position X="7" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LeagueClassLibrary\Entities\IWinnable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
