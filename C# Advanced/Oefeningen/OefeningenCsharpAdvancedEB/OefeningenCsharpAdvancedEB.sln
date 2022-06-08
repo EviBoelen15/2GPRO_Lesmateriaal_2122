@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening18AWerknemer", "Oef
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening24DataSetAuto", "Oefening24DataSetAuto\Oefening24DataSetAuto.csproj", "{983B68A0-B7D9-4CBA-A96A-B8C4F0D01A12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OefeningClimateChange", "OefeningClimateChange\OefeningClimateChange.csproj", "{F2210A30-28F1-4588-8340-71C2085B1011}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{983B68A0-B7D9-4CBA-A96A-B8C4F0D01A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{983B68A0-B7D9-4CBA-A96A-B8C4F0D01A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{983B68A0-B7D9-4CBA-A96A-B8C4F0D01A12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2210A30-28F1-4588-8340-71C2085B1011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2210A30-28F1-4588-8340-71C2085B1011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2210A30-28F1-4588-8340-71C2085B1011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2210A30-28F1-4588-8340-71C2085B1011}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

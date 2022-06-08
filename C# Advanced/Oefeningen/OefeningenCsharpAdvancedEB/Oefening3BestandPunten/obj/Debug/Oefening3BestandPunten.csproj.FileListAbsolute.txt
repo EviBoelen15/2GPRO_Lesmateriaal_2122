@@ -13,3 +13,17 @@ D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening3Besta
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening3BestandPunten\obj\Debug\Oefening3BestandPunten.exe
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening3BestandPunten\obj\Debug\Oefening3BestandPunten.pdb
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening3BestandPunten\obj\Debug\Oefening3BestandPunten.csproj.AssemblyReference.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening3BestandPunten\bin\Debug\Oefening3BestandPunten.exe.config
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening3BestandPunten\bin\Debug\Oefening3BestandPunten.exe
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening3BestandPunten\bin\Debug\Oefening3BestandPunten.pdb
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening3BestandPunten\obj\Debug\MainWindow.g.cs
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening3BestandPunten\obj\Debug\App.g.cs
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening3BestandPunten\obj\Debug\Oefening3BestandPunten_MarkupCompile.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening3BestandPunten\obj\Debug\Oefening3BestandPunten_MarkupCompile.lref
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening3BestandPunten\obj\Debug\MainWindow.baml
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening3BestandPunten\obj\Debug\Oefening3BestandPunten.g.resources
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening3BestandPunten\obj\Debug\Oefening3BestandPunten.Properties.Resources.resources
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening3BestandPunten\obj\Debug\Oefening3BestandPunten.csproj.GenerateResource.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening3BestandPunten\obj\Debug\Oefening3BestandPunten.csproj.CoreCompileInputs.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening3BestandPunten\obj\Debug\Oefening3BestandPunten.exe
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening3BestandPunten\obj\Debug\Oefening3BestandPunten.pdb

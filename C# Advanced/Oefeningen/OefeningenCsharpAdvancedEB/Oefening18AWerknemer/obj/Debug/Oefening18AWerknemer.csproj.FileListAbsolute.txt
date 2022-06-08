@@ -12,3 +12,17 @@ D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening18AWer
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening18AWerknemer\obj\Debug\Oefening18AWerknemer.csproj.CoreCompileInputs.cache
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening18AWerknemer\obj\Debug\Oefening18AWerknemer.exe
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening18AWerknemer\obj\Debug\Oefening18AWerknemer.pdb
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening18AWerknemer\bin\Debug\Oefening18AWerknemer.exe.config
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening18AWerknemer\bin\Debug\Oefening18AWerknemer.exe
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening18AWerknemer\bin\Debug\Oefening18AWerknemer.pdb
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening18AWerknemer\obj\Debug\MainWindow.g.cs
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening18AWerknemer\obj\Debug\App.g.cs
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening18AWerknemer\obj\Debug\Oefening18AWerknemer_MarkupCompile.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening18AWerknemer\obj\Debug\Oefening18AWerknemer_MarkupCompile.lref
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening18AWerknemer\obj\Debug\MainWindow.baml
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening18AWerknemer\obj\Debug\Oefening18AWerknemer.g.resources
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening18AWerknemer\obj\Debug\Oefening18AWerknemer.Properties.Resources.resources
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening18AWerknemer\obj\Debug\Oefening18AWerknemer.csproj.GenerateResource.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening18AWerknemer\obj\Debug\Oefening18AWerknemer.csproj.CoreCompileInputs.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening18AWerknemer\obj\Debug\Oefening18AWerknemer.exe
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening18AWerknemer\obj\Debug\Oefening18AWerknemer.pdb

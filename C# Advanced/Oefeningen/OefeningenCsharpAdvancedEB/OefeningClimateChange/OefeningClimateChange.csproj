@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F2210A30-28F1-4588-8340-71C2085B1011}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>OefeningClimateChange</RootNamespace>
+    <AssemblyName>OefeningClimateChange</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ClassLibraryClimateChange\Country.cs" />
+    <Compile Include="ClassLibraryClimateChange\DataBewerking.cs" />
+    <Compile Include="ClassLibraryClimateChange\TempChange.cs" />
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="csv\Country_codes_and_flags.csv" />
+    <None Include="csv\Temperature_change.csv" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\flags\Flag_of_Albania.png" />
+    <Resource Include="images\flags\Flag_of_Algeria.png" />
+    <Resource Include="images\flags\Flag_of_Andorra.png" />
+    <Resource Include="images\flags\Flag_of_Angola.png" />
+    <Resource Include="images\flags\Flag_of_Antigua_and_Barbuda.png" />
+    <Resource Include="images\flags\Flag_of_Argentina.png" />
+    <Resource Include="images\flags\Flag_of_Armenia.png" />
+    <Resource Include="images\flags\Flag_of_Artsakh.png" />
+    <Resource Include="images\flags\Flag_of_Australia_%28converted%29.png" />
+    <Resource Include="images\flags\Flag_of_Austria.png" />
+    <Resource Include="images\flags\Flag_of_Azerbaijan.png" />
+    <Resource Include="images\flags\Flag_of_Bahrain.png" />
+    <Resource Include="images\flags\Flag_of_Bangladesh.png" />
+    <Resource Include="images\flags\Flag_of_Barbados.png" />
+    <Resource Include="images\flags\Flag_of_Belarus.png" />
+    <Resource Include="images\flags\Flag_of_Belgium_%28civil%29.png" />
+    <Resource Include="images\flags\Flag_of_Belize.png" />
+    <Resource Include="images\flags\Flag_of_Benin.png" />
+    <Resource Include="images\flags\Flag_of_Bhutan.png" />
+    <Resource Include="images\flags\Flag_of_Bolivia.png" />
+    <Resource Include="images\flags\Flag_of_Bosnia_and_Herzegovina.png" />
+    <Resource Include="images\flags\Flag_of_Botswana.png" />
+    <Resource Include="images\flags\Flag_of_Brazil.png" />
+    <Resource Include="images\flags\Flag_of_Brunei.png" />
+    <Resource Include="images\flags\Flag_of_Bulgaria.png" />
+    <Resource Include="images\flags\Flag_of_Burkina_Faso.png" />
+    <Resource Include="images\flags\Flag_of_Burundi.png" />
+    <Resource Include="images\flags\Flag_of_Cambodia.png" />
+    <Resource Include="images\flags\Flag_of_Cameroon.png" />
+    <Resource Include="images\flags\Flag_of_Canada.png" />
+    <Resource Include="images\flags\Flag_of_Cape_Verde.png" />
+    <Resource Include="images\flags\Flag_of_Chad.png" />
+    <Resource Include="images\flags\Flag_of_Chile.png" />
+    <Resource Include="images\flags\Flag_of_Colombia.png" />
+    <Resource Include="images\flags\Flag_of_Costa_Rica.png" />
+    <Resource Include="images\flags\Flag_of_Croatia.png" />
+    <Resource Include="images\flags\Flag_of_Cuba.png" />
+    <Resource Include="images\flags\Flag_of_Cyprus.png" />
+    <Resource Include="images\flags\Flag_of_Denmark.png" />
+    <Resource Include="images\flags\Flag_of_Djibouti.png" />
+    <Resource Include="images\flags\Flag_of_Dominica.png" />
+    <Resource Include="images\flags\Flag_of_East_Timor.png" />
+    <Resource Include="images\flags\Flag_of_Ecuador.png" />
+    <Resource Include="images\flags\Flag_of_Egypt.png" />
+    <Resource Include="images\flags\Flag_of_El_Salvador.png" />
+    <Resource Include="images\flags\Flag_of_Equatorial_Guinea.png" />
+    <Resource Include="images\flags\Flag_of_Eritrea.png" />
+    <Resource Include="images\flags\Flag_of_Estonia.png" />
+    <Resource Include="images\flags\Flag_of_Ethiopia.png" />
+    <Resource Include="images\flags\Flag_of_Fiji.png" />
+    <Resource Include="images\flags\Flag_of_Finland.png" />
+    <Resource Include="images\flags\Flag_of_France.png" />
+    <Resource Include="images\flags\Flag_of_Gabon.png" />
+    <Resource Include="images\flags\Flag_of_Georgia.png" />
+    <Resource Include="images\flags\Flag_of_Germany.png" />
+    <Resource Include="images\flags\Flag_of_Ghana.png" />
+    <Resource Include="images\flags\Flag_of_Greece.png" />
+    <Resource Include="images\flags\Flag_of_Grenada.png" />
+    <Resource Include="images\flags\Flag_of_Guatemala.png" />
+    <Resource Include="images\flags\Flag_of_Guinea-Bissau.png" />
+    <Resource Include="images\flags\Flag_of_Guinea.png" />
+    <Resource Include="images\flags\Flag_of_Guyana.png" />
+    <Resource Include="images\flags\Flag_of_Haiti.png" />
+    <Resource Include="images\flags\Flag_of_Honduras.png" />
+    <Resource Include="images\flags\Flag_of_Hungary.png" />
+    <Resource Include="images\flags\Flag_of_Iceland.png" />
+    <Resource Include="images\flags\Flag_of_India.png" />
+    <Resource Include="images\flags\Flag_of_Indonesia.png" />
+    <Resource Include="images\flags\Flag_of_Iran.png" />
+    <Resource Include="images\flags\Flag_of_Iraq.png" />
+    <Resource Include="images\flags\Flag_of_Ireland.png" />
+    <Resource Include="images\flags\Flag_of_Israel.png" />
+    <Resource Include="images\flags\Flag_of_Italy.png" />
+    <Resource Include="images\flags\Flag_of_Jamaica.png" />
+    <Resource Include="images\flags\Flag_of_Japan.png" />
+    <Resource Include="images\flags\Flag_of_Jordan.png" />
+    <Resource Include="images\flags\Flag_of_Kazakhstan.png" />
+    <Resource Include="images\flags\Flag_of_Kenya.png" />
+    <Resource Include="images\flags\Flag_of_Kiribati.png" />
+    <Resource Include="images\flags\Flag_of_Kosovo.png" />
+    <Resource Include="images\flags\Flag_of_Kuwait.png" />
+    <Resource Include="images\flags\Flag_of_Kyrgyzstan.png" />
+    <Resource Include="images\flags\Flag_of_Laos.png" />
+    <Resource Include="images\flags\Flag_of_Latvia.png" />
+    <Resource Include="images\flags\Flag_of_Lebanon.png" />
+    <Resource Include="images\flags\Flag_of_Lesotho.png" />
+    <Resource Include="images\flags\Flag_of_Liberia.png" />
+    <Resource Include="images\flags\Flag_of_Libya.png" />
+    <Resource Include="images\flags\Flag_of_Liechtenstein.png" />
+    <Resource Include="images\flags\Flag_of_Lithuania.png" />
+    <Resource Include="images\flags\Flag_of_Luxembourg.png" />
+    <Resource Include="images\flags\Flag_of_Madagascar.png" />
+    <Resource Include="images\flags\Flag_of_Malawi.png" />
+    <Resource Include="images\flags\Flag_of_Malaysia.png" />
+    <Resource Include="images\flags\Flag_of_Maldives.png" />
+    <Resource Include="images\flags\Flag_of_Mali.png" />
+    <Resource Include="images\flags\Flag_of_Malta.png" />
+    <Resource Include="images\flags\Flag_of_Mauritania.png" />
+    <Resource Include="images\flags\Flag_of_Mauritius.png" />
+    <Resource Include="images\flags\Flag_of_Mexico.png" />
+    <Resource Include="images\flags\Flag_of_Moldova.png" />
+    <Resource Include="images\flags\Flag_of_Monaco.png" />
+    <Resource Include="images\flags\Flag_of_Mongolia.png" />
+    <Resource Include="images\flags\Flag_of_Montenegro.png" />
+    <Resource Include="images\flags\Flag_of_Morocco.png" />
+    <Resource Include="images\flags\Flag_of_Mozambique.png" />
+    <Resource Include="images\flags\Flag_of_Myanmar.png" />
+    <Resource Include="images\flags\Flag_of_Namibia.png" />
+    <Resource Include="images\flags\Flag_of_Nauru.png" />
+    <Resource Include="images\flags\Flag_of_Nepal.png" />
+    <Resource Include="images\flags\Flag_of_New_Zealand.png" />
+    <Resource Include="images\flags\Flag_of_Nicaragua.png" />
+    <Resource Include="images\flags\Flag_of_Niger.png" />
+    <Resource Include="images\flags\Flag_of_Nigeria.png" />
+    <Resource Include="images\flags\Flag_of_Niue.png" />
+    <Resource Include="images\flags\Flag_of_North_Korea.png" />
+    <Resource Include="images\flags\Flag_of_Norway.png" />
+    <Resource Include="images\flags\Flag_of_Oman.png" />
+    <Resource Include="images\flags\Flag_of_Pakistan.png" />
+    <Resource Include="images\flags\Flag_of_Palau.png" />
+    <Resource Include="images\flags\Flag_of_Palestine.png" />
+    <Resource Include="images\flags\Flag_of_Panama.png" />
+    <Resource Include="images\flags\Flag_of_Papua_New_Guinea.png" />
+    <Resource Include="images\flags\Flag_of_Paraguay.png" />
+    <Resource Include="images\flags\Flag_of_Peru.png" />
+    <Resource Include="images\flags\Flag_of_Poland.png" />
+    <Resource Include="images\flags\Flag_of_Portugal.png" />
+    <Resource Include="images\flags\Flag_of_Qatar.png" />
+    <Resource Include="images\flags\Flag_of_Romania.png" />
+    <Resource Include="images\flags\Flag_of_Russia.png" />
+    <Resource Include="images\flags\Flag_of_Rwanda.png" />
+    <Resource Include="images\flags\Flag_of_Saint_Kitts_and_Nevis.png" />
+    <Resource Include="images\flags\Flag_of_Saint_Lucia.png" />
+    <Resource Include="images\flags\Flag_of_Saint_Vincent_and_the_Grenadines.png" />
+    <Resource Include="images\flags\Flag_of_Samoa.png" />
+    <Resource Include="images\flags\Flag_of_San_Marino.png" />
+    <Resource Include="images\flags\Flag_of_Sao_Tome_and_Principe.png" />
+    <Resource Include="images\flags\Flag_of_Saudi_Arabia.png" />
+    <Resource Include="images\flags\Flag_of_Senegal.png" />
+    <Resource Include="images\flags\Flag_of_Serbia.png" />
+    <Resource Include="images\flags\Flag_of_Seychelles.png" />
+    <Resource Include="images\flags\Flag_of_Sierra_Leone.png" />
+    <Resource Include="images\flags\Flag_of_Singapore.png" />
+    <Resource Include="images\flags\Flag_of_Slovakia.png" />
+    <Resource Include="images\flags\Flag_of_Slovenia.png" />
+    <Resource Include="images\flags\Flag_of_Somalia.png" />
+    <Resource Include="images\flags\Flag_of_Somaliland.png" />
+    <Resource Include="images\flags\Flag_of_South_Africa.png" />
+    <Resource Include="images\flags\Flag_of_South_Korea.png" />
+    <Resource Include="images\flags\Flag_of_South_Sudan.png" />
+    <Resource Include="images\flags\Flag_of_Spain.png" />
+    <Resource Include="images\flags\Flag_of_Sri_Lanka.png" />
+    <Resource Include="images\flags\Flag_of_Sudan.png" />
+    <Resource Include="images\flags\Flag_of_Suriname.png" />
+    <Resource Include="images\flags\Flag_of_Sweden.png" />
+    <Resource Include="images\flags\Flag_of_Switzerland_%28Pantone%29.png" />
+    <Resource Include="images\flags\Flag_of_Syria.png" />
+    <Resource Include="images\flags\Flag_of_Tajikistan.png" />
+    <Resource Include="images\flags\Flag_of_Tanzania.png" />
+    <Resource Include="images\flags\Flag_of_Thailand.png" />
+    <Resource Include="images\flags\Flag_of_the_Bahamas.png" />
+    <Resource Include="images\flags\Flag_of_the_Central_African_Republic.png" />
+    <Resource Include="images\flags\Flag_of_the_Comoros.png" />
+    <Resource Include="images\flags\Flag_of_the_Cook_Islands.png" />
+    <Resource Include="images\flags\Flag_of_the_Czech_Republic.png" />
+    <Resource Include="images\flags\Flag_of_the_Democratic_Republic_of_the_Congo.png" />
+    <Resource Include="images\flags\Flag_of_the_Dominican_Republic.png" />
+    <Resource Include="images\flags\Flag_of_the_Federated_States_of_Micronesia.png" />
+    <Resource Include="images\flags\Flag_of_The_Gambia.png" />
+    <Resource Include="images\flags\Flag_of_the_Marshall_Islands.png" />
+    <Resource Include="images\flags\Flag_of_the_Netherlands.png" />
+    <Resource Include="images\flags\Flag_of_the_People%27s_Republic_of_China.png" />
+    <Resource Include="images\flags\Flag_of_the_Philippines.png" />
+    <Resource Include="images\flags\Flag_of_the_Republic_of_China.png" />
+    <Resource Include="images\flags\Flag_of_the_Republic_of_the_Congo.png" />
+    <Resource Include="images\flags\Flag_of_the_Sahrawi_Arab_Democratic_Republic.png" />
+    <Resource Include="images\flags\Flag_of_the_Solomon_Islands.png" />
+    <Resource Include="images\flags\Flag_of_the_Turkish_Republic_of_Northern_Cyprus.png" />
+    <Resource Include="images\flags\Flag_of_the_United_Arab_Emirates.png" />
+    <Resource Include="images\flags\Flag_of_the_United_Kingdom.png" />
+    <Resource Include="images\flags\Flag_of_the_United_States.png" />
+    <Resource Include="images\flags\Flag_of_the_Vatican_City.png" />
+    <Resource Include="images\flags\Flag_of_Togo.png" />
+    <Resource Include="images\flags\Flag_of_Tonga.png" />
+    <Resource Include="images\flags\Flag_of_Transnistria_%28state%29.png" />
+    <Resource Include="images\flags\Flag_of_Trinidad_and_Tobago.png" />
+    <Resource Include="images\flags\Flag_of_Tunisia.png" />
+    <Resource Include="images\flags\Flag_of_Turkey.png" />
+    <Resource Include="images\flags\Flag_of_Turkmenistan.png" />
+    <Resource Include="images\flags\Flag_of_Tuvalu.png" />
+    <Resource Include="images\flags\Flag_of_Uganda.png" />
+    <Resource Include="images\flags\Flag_of_Ukraine.png" />
+    <Resource Include="images\flags\Flag_of_Uruguay.png" />
+    <Resource Include="images\flags\Flag_of_Uzbekistan.png" />
+    <Resource Include="images\flags\Flag_of_Vanuatu.png" />
+    <Resource Include="images\flags\Flag_of_Venezuela.png" />
+    <Resource Include="images\flags\Flag_of_Vietnam.png" />
+    <Resource Include="images\flags\Flag_of_Yemen.png" />
+    <Resource Include="images\flags\Flag_of_Zambia.png" />
+    <Resource Include="images\flags\Flag_of_Zimbabwe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\ClimateCrisis.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,15 @@
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\OefeningClimateChange\obj\Debug\OefeningClimateChange.csproj.AssemblyReference.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\OefeningClimateChange\obj\Debug\MainWindow.g.cs
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\OefeningClimateChange\obj\Debug\App.g.cs
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\OefeningClimateChange\obj\Debug\OefeningClimateChange_MarkupCompile.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\OefeningClimateChange\obj\Debug\OefeningClimateChange_MarkupCompile.lref
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\OefeningClimateChange\bin\Debug\OefeningClimateChange.exe.config
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\OefeningClimateChange\bin\Debug\OefeningClimateChange.exe
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\OefeningClimateChange\bin\Debug\OefeningClimateChange.pdb
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\OefeningClimateChange\obj\Debug\MainWindow.baml
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\OefeningClimateChange\obj\Debug\OefeningClimateChange.g.resources
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\OefeningClimateChange\obj\Debug\OefeningClimateChange.Properties.Resources.resources
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\OefeningClimateChange\obj\Debug\OefeningClimateChange.csproj.GenerateResource.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\OefeningClimateChange\obj\Debug\OefeningClimateChange.csproj.CoreCompileInputs.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\OefeningClimateChange\obj\Debug\OefeningClimateChange.exe
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\OefeningClimateChange\obj\Debug\OefeningClimateChange.pdb

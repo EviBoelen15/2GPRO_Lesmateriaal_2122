@@ -13,3 +13,17 @@ D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening10Klas
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening10KlassePersoneel\obj\Debug\Oefening10KlassePersoneel.exe
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening10KlassePersoneel\obj\Debug\Oefening10KlassePersoneel.pdb
 D:\2GPRO_Lesmateriaal_2122\C# Advanced\OefeningenCsharpAdvancedEB\Oefening10KlassePersoneel\obj\Debug\Oefening10KlassePersoneel.csproj.AssemblyReference.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening10KlassePersoneel\bin\Debug\Oefening10KlassePersoneel.exe.config
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening10KlassePersoneel\bin\Debug\Oefening10KlassePersoneel.exe
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening10KlassePersoneel\bin\Debug\Oefening10KlassePersoneel.pdb
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening10KlassePersoneel\obj\Debug\MainWindow.g.cs
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening10KlassePersoneel\obj\Debug\App.g.cs
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening10KlassePersoneel\obj\Debug\Oefening10KlassePersoneel_MarkupCompile.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening10KlassePersoneel\obj\Debug\Oefening10KlassePersoneel_MarkupCompile.lref
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening10KlassePersoneel\obj\Debug\MainWindow.baml
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening10KlassePersoneel\obj\Debug\Oefening10KlassePersoneel.g.resources
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening10KlassePersoneel\obj\Debug\Oefening10KlassePersoneel.Properties.Resources.resources
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening10KlassePersoneel\obj\Debug\Oefening10KlassePersoneel.csproj.GenerateResource.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening10KlassePersoneel\obj\Debug\Oefening10KlassePersoneel.csproj.CoreCompileInputs.cache
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening10KlassePersoneel\obj\Debug\Oefening10KlassePersoneel.exe
+D:\2GPRO_Lesmateriaal_2122\C# Advanced\Oefeningen\OefeningenCsharpAdvancedEB\Oefening10KlassePersoneel\obj\Debug\Oefening10KlassePersoneel.pdb
